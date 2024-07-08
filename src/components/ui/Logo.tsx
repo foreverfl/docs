@@ -8,7 +8,7 @@ const Logo = () => {
       <Link href="/" passHref>
         <div className="flex items-center">
           <svg
-            className="w-10 h-10 ps-3 pt-3 text-gray-800 dark:text-white"
+            className="w-10 h-10 ps-3 pt-3 text-gray-800 text-black dark:text-white"
             aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg"
             width="30"

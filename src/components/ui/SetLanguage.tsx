@@ -13,7 +13,7 @@ const SetLanguage = () => {
     <select
       value={language}
       onChange={handleLanguageChange}
-      className="p-2 dark:text-white bg-gray-200 dark:bg-neutral-900 rounded"
+      className="p-2 text-black dark:text-white bg-gray-200 dark:bg-neutral-900 rounded"
     >
       <option value="en">English</option>
       <option value="ja">日本語</option>

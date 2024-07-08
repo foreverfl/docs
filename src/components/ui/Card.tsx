@@ -26,7 +26,7 @@ const Card: React.FC<CardProps> = ({
   return (
     <div
       ref={cardRef}
-      className="bg-white dark:bg-neutral-900 rounded-lg shadow-2xl p-4 flex flex-col dark:text-white"
+      className="bg-white dark:bg-neutral-900 text-black dark:text-white rounded-lg shadow-2xl p-4 flex flex-col"
       style={{ height: maxHeight ? `${maxHeight}px` : "auto" }}
     >
       <h2 className="text-xl font-bold text-left mb-4 truncate">

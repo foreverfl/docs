@@ -1,0 +1,288 @@
+= Docs
+
+== Command Line Tools
+
+* PowerShell
+** link:https://learn.microsoft.com/en-us/powershell/[English]
+** link:https://learn.microsoft.com/ja-jp/powershell/[日本語]
+** link:https://learn.microsoft.com/ko-kr/powershell/[한국어]
+
+* Rocky Linux
+** link:https://docs.rockylinux.org/[English]
+** link:https://docs.rockylinux.org/ja/[日本語]
+** link:https://docs.rockylinux.org/ko/[한국어]
+
+* Git
+** link:https://git-scm.com/doc[English]
+** link:https://git-scm.com/book/ja/v2[日本語]
+** link:https://git-scm.com/book/ko/v2[한국어]
+
+== Containerization and Orchestration
+
+* Docker
+** link:https://docs.docker.com/[English]
+** link:https://docs.docker.jp/[日本語]
+** 한국어
+
+* Kubernetes
+** link:https://kubernetes.io/docs/home/[English]
+** link:https://kubernetes.io/ja/docs/home/[日本語]
+** link:https://kubernetes.io/ko/docs/home/[한국어]
+
+== Deployment
+
+* Vercel
+** link:https://vercel.com/docs[English]
+** 日本語
+** 한국어
+
+* Netlify
+** link:https://docs.netlify.com/[English]
+** 日本語
+** 한국어
+
+== Markup Languages
+
+* GFM
+** link:https://github.github.com/gfm/[English]
+** 日本語
+** 한국어
+
+* Asciidoc
+** link:https://docs.asciidoctor.org/[English]
+** 日本語
+** 한국어
+
+== Documentation Tools
+
+* Antora
+** link:https://docs.antora.org/antora/latest/[English]
+** 日本語
+** link:https://antora-ko.mogumogu.dev/antora/3.1/index.html[한국어]
+
+* Docusaurus
+** link:https://docusaurus.io/[English]
+** 日本語
+** link:https://docusaurus.io/ko/[한국어]
+
+* Spring REST Docs
+** link:https://docs.spring.io/spring-restdocs/docs/current/reference/htmlsingle/[English]
+** link:https://spring.pleiades.io/spring-restdocs/docs/current/reference/htmlsingle/[日本語]
+** link:[한국어]
+
+* Javadoc
+** link:https://docs.oracle.com/en/java/javase/22/docs/specs/javadoc/doc-comment-spec.html[English]
+** 日本語
+** 한국어
+
+// * Sphinx
+// ** link:[English]
+// ** link:[日本語]
+// ** link:[한국어]
+
+// * Hugo
+// ** link:[English]
+// ** link:[日本語]
+// ** link:[한국어]
+
+// * Docsy
+// ** link:[English]
+// ** link:[日本語]
+// ** link:[한국어]
+
+// * Jekyll
+// ** link:[English]
+// ** link:[日本語]
+// ** link:[한국어]
+
+== Programming Languages
+
+* Java
+** link:https://docs.oracle.com/en/java/javase/22/docs/api/index.html[English]
+** link:https://docs.oracle.com/javase/jp/21/docs/api/index.html[(旧) 日本語]
+** 한국어
+
+* HTML
+** link:https://developer.mozilla.org/en-US/docs/Web/HTML[English]
+** link:https://developer.mozilla.org/ja/docs/Web/HTML[日本語]
+** link:https://developer.mozilla.org/ko/docs/Web/HTML[한국어]
+
+* CSS
+** link:https://developer.mozilla.org/en-US/docs/Web/CSS[English]
+** link:https://developer.mozilla.org/ja/docs/Web/CSS[日本語]
+** link:https://developer.mozilla.org/ko/docs/Web/CSS[한국어]
+
+* JavaScript
+** link:https://developer.mozilla.org/en-US/docs/Web/JavaScript[English]
+** link:https://developer.mozilla.org/ja/docs/Web/JavaScript[日本語]
+** link:https://developer.mozilla.org/ko/docs/Web/JavaScript[한국어]
+
+* Web APIs
+** link:https://developer.mozilla.org/en-US/docs/Web/API[English]
+** link:https://developer.mozilla.org/ja/docs/Web/API[日本語]
+** link:https://developer.mozilla.org/ko/docs/Web/API[한국어]
+
+* Python
+** link:https://docs.python.org/3/[English]
+** link:https://docs.python.org/ja/3/[日本語]
+** link:https://docs.python.org/ko/3/[한국어]
+
+* Ruby
+** link:https://www.ruby-lang.org/en/documentation/[English]
+** link:https://www.ruby-lang.org/ja/documentation/[日本語]
+** link:https://www.ruby-lang.org/ko/documentation/[한국어]
+
+* Rust
+** link:https://doc.rust-lang.org/book/[English]
+** link:https://doc.rust-jp.rs/book-ja/[(旧) 日本語]
+** link:https://doc.rust-kr.org/[한국어]
+
+
+== Runtime Environments
+
+* Node.js (JavaScript)
+** link:https://nodejs.org/docs/latest/api/[English]
+** link:https://nodejs.org/dist/latest-v8.x/docs/api/[(旧) 日本語]
+** link:https://nodejs.sideeffect.kr/docs/[(구) 한국어]
+
+== Frameworks
+
+* Spring Framework (Java)
+** link:https://docs.spring.io/spring-framework/reference/index.html[English]
+** link:https://spring.pleiades.io/spring-framework/reference/[日本語]
+** 한국어
+
+* Spring Boot (Java)
+** link:https://docs.spring.io/spring-boot/index.html[English]
+** link:https://spring.pleiades.io/spring-boot/[日本語]
+** 한국어
+
+* Next.js (JavaScript)
+** link:https://nextjs.org/docs[English]
+** link:https://nextjs-ja-translation-docs.vercel.app/[(旧) 日本語]
+** 한국어
+
+* Electron (JavaScript)
+** link:https://www.electronjs.org/docs/latest/[English]
+** link:https://www.electronjs.org/ja/docs/latest/[日本語]
+** link:[한국어]
+
+* Chrome Extensions (JavaScript)
+** link:https://developer.chrome.com/docs/extensions[English]
+** link:https://developer.chrome.com/docs/extensions?hl=ja[日本語]
+** link:https://developer.chrome.com/docs/extensions?hl=ko[한국어]
+
+* Django (Python)
+** link:https://docs.djangoproject.com/en/5.0/[English]
+** link:https://docs.djangoproject.com/ja/5.0/[日本語]
+** link:https://docs.djangoproject.com/ko/5.0/[한국어]
+
+* TailwindCSS (CSS)
+** link:https://v2.tailwindcss.com/docs[English]
+** link:https://runebook.dev/ja/docs/tailwindcss/-index-[日本語]
+** link:https://runebook.dev/ko/docs/tailwindcss/-index-[한국어]
+
+* BootStrap (CSS)
+** link:https://getbootstrap.com/docs/5.3/getting-started/introduction/[English]
+** link:https://getbootstrap.jp/docs/5.3/getting-started/introduction/[日本語]
+** link:https://getbootstrap.kr/docs/5.3/getting-started/introduction/[한국어]
+
+== Libraries
+
+* React (JavaScript)
+** link:https://react.dev/[English]
+** link:https://ja.react.dev/[日本語]
+** link:https://ko.react.dev/[한국어]
+
+* Redux Toolkit (JavaScript)
+** link:https://redux-toolkit.js.org/[English]
+** link:[日本語]
+** link:https://ko.redux.js.org/[한국어]
+
+* Handlebars (Node.js)
+** link:https://handlebarsjs.com/[English]
+** 日本語
+** link:https://handlebarsjs.com/ko/[한국어]
+
+== Module Bundlers
+
+* Webpack (JavaScript)
+** link:https://webpack.js.org/concepts/[English]
+** 日本語
+** link:https://webpack.kr/concepts/[한국어]
+
+== Build Tools
+
+* Gradle (Java)    
+** link:https://docs.gradle.org/current/userguide/userguide.html[English]
+** 日本語
+** 한국어
+
+* npm (Node.js)
+** link:https://docs.npmjs.com/[English]
+** 日本語
+** 한국어
+
+* pip (Python)
+** link:https://pip.pypa.io/en/stable/[English]
+** 日本語
+** 한국어
+
+== Databases
+
+* PostgreSQL
+** link:https://www.postgresql.org/docs/current/index.html[English]
+** link:https://www.postgresql.jp/document/[日本語]
+** link:[한국어]
+
+* MongoDB
+** link:https://www.mongodb.com/docs/manual/[English]
+** 日本語
+** link:https://www.mongodb.com/ko-kr/docs/manual/[한국어]
+
+== SaaS APIs
+
+* Anthropic
+** link:https://docs.anthropic.com/en/api/getting-started[English]
+** link:https://docs.anthropic.com/ja/docs/intro-to-claude[日本語]
+** link:https://docs.anthropic.com/ko/api/getting-started[한국어]
+
+* OpenAI
+** link:https://platform.openai.com/docs/api-reference/introduction[English]
+** 日本語
+** 한국어
+
+* Algolia
+** link:https://www.algolia.com/doc/[English]
+** link:[日本語]
+** link:[한국어]
+
+== AI/ML
+
+* TensorFlow
+** link:https://www.tensorflow.org/[English]
+** link:https://www.tensorflow.org/?hl=ja[日本語]
+** link:https://www.tensorflow.org/?hl=ko[한국어]
+
+* PyTorch
+** link:https://pytorch.org/[English]
+** 日本語
+** link:https://tutorials.pytorch.kr/recipes/recipes_index.html[한국어]
+
+== IDEs
+
+* Visual Studio Code
+** link:https://code.visualstudio.com/docs[English]
+** 日本語
+** 한국어
+
+* IntelliJ IDEA
+** link:https://www.jetbrains.com/help/idea/getting-started.html[English]
+** link:https://pleiades.io/help/idea/javadocs.html[日本語]
+** 한국어
+
+== Books
+
+* Effective Java
+** 日本語
+** 한국어

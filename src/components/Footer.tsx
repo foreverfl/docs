@@ -1,6 +1,6 @@
 const Footer: React.FC = () => {
   return (
-    <footer className="p-4 dark:text-neutral-50 dark:bg-neutral-900">
+    <footer className="p-4 dark:text-neutral-50 dark:bg-neutral-900 select-none">
       <div className="container mx-auto text-center">
         {/* md 크기 이상에서만 보이는 span */}
         <span className="hidden md:inline-block font-footer text-2xl">

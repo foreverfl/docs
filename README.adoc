@@ -1,6 +1,6 @@
 = Docs
 
-== Command Line Tools
+== Command Line Tools / コマンドラインツール / 명령줄 도구
 
 * PowerShell
 ** link:https://learn.microsoft.com/en-us/powershell/[English]
@@ -17,63 +17,68 @@
 ** link:https://git-scm.com/book/ja/v2[日本語]
 ** link:https://git-scm.com/book/ko/v2[한국어]
 
-== Containerization and Orchestration
+==  Containerization and Orchestration / コンテナ化とオーケストレーション / 컨테이너화 및 오케스트레이션
 
 * Docker
 ** link:https://docs.docker.com/[English]
 ** link:https://docs.docker.jp/[日本語]
-** 한국어
+** link:#[한국어]
 
 * Kubernetes
 ** link:https://kubernetes.io/docs/home/[English]
 ** link:https://kubernetes.io/ja/docs/home/[日本語]
 ** link:https://kubernetes.io/ko/docs/home/[한국어]
 
-== Deployment
+== Deployment / デプロイメント / 배포
 
 * Vercel
 ** link:https://vercel.com/docs[English]
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]
 
 * Netlify
 ** link:https://docs.netlify.com/[English]
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]
 
-== Markup Languages
+== Markup Languages / マークアップ言語 / 마크업 언어
 
 * GFM
 ** link:https://github.github.com/gfm/[English]
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]
 
 * Asciidoc
 ** link:https://docs.asciidoctor.org/[English]
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]
 
-== Documentation Tools
+== Documentation Tools / ドキュメンテーションツール / 문서화 도구
 
 * Antora
 ** link:https://docs.antora.org/antora/latest/[English]
-** 日本語
+** link:#[日本語]
 ** link:https://antora-ko.mogumogu.dev/antora/3.1/index.html[한국어]
 
 * Docusaurus
 ** link:https://docusaurus.io/[English]
-** 日本語
+** link:#[日本語]
 ** link:https://docusaurus.io/ko/[한국어]
 
 * Spring REST Docs
 ** link:https://docs.spring.io/spring-restdocs/docs/current/reference/htmlsingle/[English]
 ** link:https://spring.pleiades.io/spring-restdocs/docs/current/reference/htmlsingle/[日本語]
-** link:[한국어]
+** link:#[한국어]
 
 * Javadoc
 ** link:https://docs.oracle.com/en/java/javase/22/docs/specs/javadoc/doc-comment-spec.html[English]
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]
+
+* Pandoc
+** link:https://pandoc.org/[English]
+** link:https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html[日本語]
+** link:#[한국어]
 
 // * Sphinx
 // ** link:[English]
@@ -95,12 +100,12 @@
 // ** link:[日本語]
 // ** link:[한국어]
 
-== Programming Languages
+== Programming Languages / プログラミング言語 / 프로그래밍 언어
 
 * Java
 ** link:https://docs.oracle.com/en/java/javase/22/docs/api/index.html[English]
-** link:https://docs.oracle.com/javase/jp/21/docs/api/index.html[(旧) 日本語]
-** 한국어
+** link:https://docs.oracle.com/javase/jp/21/docs/api/index.html[日本語]
+** link:#[한국어]
 
 * HTML
 ** link:https://developer.mozilla.org/en-US/docs/Web/HTML[English]
@@ -134,38 +139,43 @@
 
 * Rust
 ** link:https://doc.rust-lang.org/book/[English]
-** link:https://doc.rust-jp.rs/book-ja/[(旧) 日本語]
+** link:https://doc.rust-jp.rs/book-ja/[日本語]
 ** link:https://doc.rust-kr.org/[한국어]
 
 
-== Runtime Environments
+== Runtime Environments / ランタイム環境 / 런타임 환경
 
 * Node.js (JavaScript)
 ** link:https://nodejs.org/docs/latest/api/[English]
-** link:https://nodejs.org/dist/latest-v8.x/docs/api/[(旧) 日本語]
-** link:https://nodejs.sideeffect.kr/docs/[(구) 한국어]
+** link:https://nodejs.org/dist/latest-v8.x/docs/api/[日本語]
+** link:https://nodejs.sideeffect.kr/docs/[한국어]
 
-== Frameworks
+== Frameworks / フレームワーク / 프레임워크
 
 * Spring Framework (Java)
 ** link:https://docs.spring.io/spring-framework/reference/index.html[English]
 ** link:https://spring.pleiades.io/spring-framework/reference/[日本語]
-** 한국어
+** link:#[한국어]
 
 * Spring Boot (Java)
 ** link:https://docs.spring.io/spring-boot/index.html[English]
 ** link:https://spring.pleiades.io/spring-boot/[日本語]
-** 한국어
+** link:#[한국어]
 
 * Next.js (JavaScript)
 ** link:https://nextjs.org/docs[English]
-** link:https://nextjs-ja-translation-docs.vercel.app/[(旧) 日本語]
-** 한국어
+** link:https://nextjs-ja-translation-docs.vercel.app/[日本語]
+** link:#[한국어]
+
+* Express (JavaScript)
+** link:https://expressjs.com/[English]
+** link:https://expressjs.com/ja/[日本語]
+** link:https://expressjs.com/ko/[한국어]
 
 * Electron (JavaScript)
 ** link:https://www.electronjs.org/docs/latest/[English]
 ** link:https://www.electronjs.org/ja/docs/latest/[日本語]
-** link:[한국어]
+** link:#[한국어]
 
 * Chrome Extensions (JavaScript)
 ** link:https://developer.chrome.com/docs/extensions[English]
@@ -187,7 +197,19 @@
 ** link:https://getbootstrap.jp/docs/5.3/getting-started/introduction/[日本語]
 ** link:https://getbootstrap.kr/docs/5.3/getting-started/introduction/[한국어]
 
-== Libraries
+== Template Engines / テンプレートエンジン / 템플릿 엔진
+
+* Thymeleaf (Java)
+** link:https://www.thymeleaf.org/doc/tutorials/3.1/usingthymeleaf.html[English]
+** link:https://www.thymeleaf.org/doc/tutorials/3.1/usingthymeleaf_ja.html[日本語]
+** link:#[한국어]
+
+* Handlebars (Node.js)
+** link:https://handlebarsjs.com/[English]
+** link:#[日本語]
+** link:https://handlebarsjs.com/ko/[한국어]
+
+== Libraries / ライブラリ / 라이브러리
 
 * React (JavaScript)
 ** link:https://react.dev/[English]
@@ -196,51 +218,51 @@
 
 * Redux Toolkit (JavaScript)
 ** link:https://redux-toolkit.js.org/[English]
-** link:[日本語]
+** link:#[日本語]
 ** link:https://ko.redux.js.org/[한국어]
 
-* Handlebars (Node.js)
-** link:https://handlebarsjs.com/[English]
-** 日本語
-** link:https://handlebarsjs.com/ko/[한국어]
+* Immer (JavaScript)
+** link:https://immerjs.github.io/immer/[English]
+** link:#[日本語]
+** link:#[한국어]
 
-== Module Bundlers
+== Module Bundlers / モジュールバンドラー / 모듈 번들러
 
 * Webpack (JavaScript)
 ** link:https://webpack.js.org/concepts/[English]
-** 日本語
+** link:#[日本語]
 ** link:https://webpack.kr/concepts/[한국어]
 
-== Build Tools
+== Build Tools / ビルドツール / 빌드 도구
 
 * Gradle (Java)    
 ** link:https://docs.gradle.org/current/userguide/userguide.html[English]
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]
 
-* npm (Node.js)
+* npm (JavaScript)
 ** link:https://docs.npmjs.com/[English]
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]
 
 * pip (Python)
 ** link:https://pip.pypa.io/en/stable/[English]
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]
 
-== Databases
+== Databases / データベース / 데이터베이스
 
 * PostgreSQL
 ** link:https://www.postgresql.org/docs/current/index.html[English]
 ** link:https://www.postgresql.jp/document/[日本語]
-** link:[한국어]
+** link:#[한국어]
 
 * MongoDB
 ** link:https://www.mongodb.com/docs/manual/[English]
-** 日本語
+** link:#[日本語]
 ** link:https://www.mongodb.com/ko-kr/docs/manual/[한국어]
 
-== SaaS APIs
+== SaaS APIs / SaaS API / SaaS API
 
 * Anthropic
 ** link:https://docs.anthropic.com/en/api/getting-started[English]
@@ -249,15 +271,15 @@
 
 * OpenAI
 ** link:https://platform.openai.com/docs/api-reference/introduction[English]
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]
 
 * Algolia
 ** link:https://www.algolia.com/doc/[English]
-** link:[日本語]
-** link:[한국어]
+** link:#[日本語]
+** link:#[한국어]
 
-== AI/ML
+== AI/ML / AI・機械学習 / AI/ML
 
 * TensorFlow
 ** link:https://www.tensorflow.org/[English]
@@ -266,23 +288,23 @@
 
 * PyTorch
 ** link:https://pytorch.org/[English]
-** 日本語
+** link:#[日本語]
 ** link:https://tutorials.pytorch.kr/recipes/recipes_index.html[한국어]
 
-== IDEs
+== IDEs / 統合開発環境 / 통합 개발 환경
 
 * Visual Studio Code
 ** link:https://code.visualstudio.com/docs[English]
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]
 
 * IntelliJ IDEA
 ** link:https://www.jetbrains.com/help/idea/getting-started.html[English]
 ** link:https://pleiades.io/help/idea/javadocs.html[日本語]
-** 한국어
+** link:#[한국어]
 
-== Books
+== Books / 書籍 / 도서
 
 * Effective Java
-** 日本語
-** 한국어
+** link:#[日本語]
+** link:#[한국어]

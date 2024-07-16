@@ -219,11 +219,16 @@
 * Redux Toolkit (JavaScript)
 ** link:https://redux-toolkit.js.org/[English]
 ** link:#[日本語]
-** link:https://ko.redux.js.org/[한국어]
+** link:#[한국어]
 
 * Immer (JavaScript)
 ** link:https://immerjs.github.io/immer/[English]
 ** link:#[日本語]
+** link:#[한국어]
+
+* jQuery (JavaScript)
+** link:https://jquery.com/[English]
+** link:http://semooh.jp/jquery/[日本語]
 ** link:#[한국어]
 
 == Module Bundlers / モジュールバンドラー / 모듈 번들러

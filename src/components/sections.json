@@ -695,7 +695,7 @@
           },
           {
             "lang": "한국어",
-            "url": "https://ko.redux.js.org/"
+            "url": "#"
           }
         ]
       },
@@ -709,6 +709,23 @@
           {
             "lang": "日本語",
             "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "jQuery (JavaScript)",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://jquery.com/"
+          },
+          {
+            "lang": "日本語",
+            "url": "http://semooh.jp/jquery/"
           },
           {
             "lang": "한국어",

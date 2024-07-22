@@ -580,6 +580,23 @@
         ]
       },
       {
+        "label": "FastAPI (Python)",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://fastapi.tiangolo.com/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://fastapi.tiangolo.com/ja/"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://fastapi.tiangolo.com/ko/"
+          }
+        ]
+      },
+      {
         "label": "TailwindCSS (CSS)",
         "links": [
           {
@@ -730,6 +747,40 @@
           {
             "lang": "한국어",
             "url": "https://jquery-ko.mogumogu.dev/jquery-learn-ko/index.html"
+          }
+        ]
+      },
+      {
+        "label": "scikit-learn (Python)",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://scikit-learn.org/stable/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://runebook.dev/ja/docs/scikit_learn/-index-"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "KoNLPy (Python)",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://konlpy.org/en/latest/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://konlpy.org/ko/latest/"
           }
         ]
       }

@@ -187,6 +187,11 @@
 ** link:https://docs.djangoproject.com/ja/5.0/[日本語]
 ** link:https://docs.djangoproject.com/ko/5.0/[한국어]
 
+* FastAPI (Python)
+** link:https://fastapi.tiangolo.com/[English]
+** link:https://fastapi.tiangolo.com/ja/[日本語]
+** link:https://fastapi.tiangolo.com/ko/[한국어]
+
 * TailwindCSS (CSS)
 ** link:https://v2.tailwindcss.com/docs[English]
 ** link:https://runebook.dev/ja/docs/tailwindcss/-index-[日本語]
@@ -230,6 +235,16 @@
 ** link:https://jquery.com/[English]
 ** link:http://semooh.jp/jquery/[日本語]
 ** link:https://jquery-ko.mogumogu.dev/jquery-learn-ko/index.html[한국어]
+
+* scikit-learn (Python)
+** link:https://scikit-learn.org/stable/[English]
+** link:https://runebook.dev/ja/docs/scikit_learn/-index-[日本語]
+** link:#[한국어]
+
+* KoNLPy (Python)
+** link:https://konlpy.org/en/latest/[English]
+** link:#[日本語]
+** link:https://konlpy.org/ko/latest/[한국어]
 
 == Module Bundlers / モジュールバンドラー / 모듈 번들러
 

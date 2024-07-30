@@ -104,6 +104,32 @@
   },
   {
     "title": {
+      "en": "DevOps",
+      "ja": "デブオプス",
+      "ko": "데브옵스"
+    },
+    "items": [
+      {
+        "label": "Sentry",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://docs.sentry.io/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
       "en": "Deployment",
       "ja": "デプロイメント",
       "ko": "배포"

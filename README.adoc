@@ -29,6 +29,14 @@
 ** link:https://kubernetes.io/ja/docs/home/[日本語]
 ** link:https://kubernetes.io/ko/docs/home/[한국어]
 
+
+== DevOps / デブオプス / 데브옵스
+
+* Sentry
+** link:https://docs.sentry.io/[English]
+** link:#[日本語]
+** link:#[한국어]
+
 == Deployment / デプロイメント / 배포
 
 * Vercel

@@ -24,19 +24,19 @@
         ]
       },
       {
-        "label": "Rocky Linux",
+        "label": "Linux",
         "links": [
           {
             "lang": "English",
-            "url": "https://docs.rockylinux.org/"
+            "url": "https://www.gnu.org/software/software.html"
           },
           {
             "lang": "日本語",
-            "url": "https://docs.rockylinux.org/ja/"
+            "url": "#"
           },
           {
             "lang": "한국어",
-            "url": "https://docs.rockylinux.org/ko/"
+            "url": "#"
           }
         ]
       },
@@ -273,6 +273,57 @@
           {
             "lang": "日本語",
             "url": "https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Nextra",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://nextra.site/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "MDX",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://mdxjs.com/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "MkDocs",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://www.mkdocs.org/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
           },
           {
             "lang": "한국어",

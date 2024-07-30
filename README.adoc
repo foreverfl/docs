@@ -7,10 +7,10 @@
 ** link:https://learn.microsoft.com/ja-jp/powershell/[日本語]
 ** link:https://learn.microsoft.com/ko-kr/powershell/[한국어]
 
-* Rocky Linux
-** link:https://docs.rockylinux.org/[English]
-** link:https://docs.rockylinux.org/ja/[日本語]
-** link:https://docs.rockylinux.org/ko/[한국어]
+* Linux
+** link:https://www.gnu.org/software/software.html[English]
+** link:#[日本語]
+** link:#[한국어]
 
 * Git
 ** link:https://git-scm.com/doc[English]
@@ -78,6 +78,21 @@
 * Pandoc
 ** link:https://pandoc.org/[English]
 ** link:https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html[日本語]
+** link:#[한국어]
+
+* Nextra
+** link:https://nextra.site/[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* MDX
+** link:https://mdxjs.com/[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* MkDocs
+** link:https://www.mkdocs.org/[English]
+** link:#[日本語]
 ** link:#[한국어]
 
 // * Sphinx

@@ -211,6 +211,23 @@
             "url": "#"
           }
         ]
+      },
+      {
+        "label": "Mermaid",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://mermaid.js.org/intro/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
       }
     ]
   },
@@ -319,7 +336,7 @@
           },
           {
             "lang": "한국어",
-            "url": "#"
+            "url": "https://nextra-ko.mogumogu.dev/"
           }
         ]
       },
@@ -532,185 +549,6 @@
   },
   {
     "title": {
-      "en": "Frameworks",
-      "ja": "フレームワーク",
-      "ko": "프레임워크"
-    },
-    "items": [
-      {
-        "label": "Spring Framework (Java)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.spring.io/spring-framework/reference/index.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://spring.pleiades.io/spring-framework/reference/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Spring Boot (Java)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.spring.io/spring-boot/index.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://spring.pleiades.io/spring-boot/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Next.js (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://nextjs.org/docs"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://nextjs-ja-translation-docs.vercel.app/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Express (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://expressjs.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://expressjs.com/ja/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://expressjs.com/ko/"
-          }
-        ]
-      },
-      {
-        "label": "Electron (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.electronjs.org/docs/latest/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://www.electronjs.org/ja/docs/latest/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Chrome Extensions (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://developer.chrome.com/docs/extensions"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://developer.chrome.com/docs/extensions?hl=ja"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://developer.chrome.com/docs/extensions?hl=ko"
-          }
-        ]
-      },
-      {
-        "label": "Django (Python)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.djangoproject.com/en/5.0/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://docs.djangoproject.com/ja/5.0/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://docs.djangoproject.com/ko/5.0/"
-          }
-        ]
-      },
-      {
-        "label": "FastAPI (Python)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://fastapi.tiangolo.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://fastapi.tiangolo.com/ja/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://fastapi.tiangolo.com/ko/"
-          }
-        ]
-      },
-      {
-        "label": "TailwindCSS (CSS)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://v2.tailwindcss.com/docs"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://runebook.dev/ja/docs/tailwindcss/-index-"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://runebook.dev/ko/docs/tailwindcss/-index-"
-          }
-        ]
-      },
-      {
-        "label": "BootStrap (CSS)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://getbootstrap.com/docs/5.3/getting-started/introduction/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://getbootstrap.jp/docs/5.3/getting-started/introduction/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://getbootstrap.kr/docs/5.3/getting-started/introduction/"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
       "en": "Template Engines",
       "ja": "テンプレートエンジン",
       "ko": "템플릿 엔진"
@@ -754,13 +592,219 @@
   },
   {
     "title": {
-      "en": "Libraries",
-      "ja": "ライブラリ",
-      "ko": "라이브러리"
+      "en": "Frameworks (CSS)",
+      "ja": "フレームワーク (CSS)",
+      "ko": "프레임워크 (CSS)"
     },
     "items": [
       {
-        "label": "React (JavaScript)",
+        "label": "TailwindCSS",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://v2.tailwindcss.com/docs"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://runebook.dev/ja/docs/tailwindcss/-index-"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://runebook.dev/ko/docs/tailwindcss/-index-"
+          }
+        ]
+      },
+      {
+        "label": "BootStrap",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://getbootstrap.com/docs/5.3/getting-started/introduction/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://getbootstrap.jp/docs/5.3/getting-started/introduction/"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://getbootstrap.kr/docs/5.3/getting-started/introduction/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Frameworks (Java)",
+      "ja": "フレームワーク (Java)",
+      "ko": "프레임워크 (Java)"
+    },
+    "items": [
+      {
+        "label": "Spring Framework",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://docs.spring.io/spring-framework/reference/index.html"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://spring.pleiades.io/spring-framework/reference/"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Spring Boot",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://docs.spring.io/spring-boot/index.html"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://spring.pleiades.io/spring-boot/"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Frameworks (JavaScript)",
+      "ja": "フレームワーク (JavaScript)",
+      "ko": "프레임워크 (JavaScript)"
+    },
+    "items": [
+      {
+        "label": "Next.js",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://nextjs.org/docs"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://nextjs-ja-translation-docs.vercel.app/"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Express",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://expressjs.com/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://expressjs.com/ja/"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://expressjs.com/ko/"
+          }
+        ]
+      },
+      {
+        "label": "Electron",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://www.electronjs.org/docs/latest/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://www.electronjs.org/ja/docs/latest/"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Chrome Extensions",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://developer.chrome.com/docs/extensions"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://developer.chrome.com/docs/extensions?hl=ja"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://developer.chrome.com/docs/extensions?hl=ko"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Frameworks (Python)",
+      "ja": "フレームワーク (Python)",
+      "ko": "프레임워크 (Python)"
+    },
+    "items": [
+      {
+        "label": "Django",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://docs.djangoproject.com/en/5.0/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://docs.djangoproject.com/ja/5.0/"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://docs.djangoproject.com/ko/5.0/"
+          }
+        ]
+      },
+      {
+        "label": "FastAPI",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://fastapi.tiangolo.com/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://fastapi.tiangolo.com/ja/"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://fastapi.tiangolo.com/ko/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Libraries (JavaScript)",
+      "ja": "ライブラリ (JavaScript)",
+      "ko": "라이브러리 (JavaScript)"
+    },
+    "items": [
+      {
+        "label": "React",
         "links": [
           {
             "lang": "English",
@@ -777,7 +821,7 @@
         ]
       },
       {
-        "label": "Redux Toolkit (JavaScript)",
+        "label": "Redux Toolkit",
         "links": [
           {
             "lang": "English",
@@ -794,11 +838,11 @@
         ]
       },
       {
-        "label": "Immer (JavaScript)",
+        "label": "ESLint",
         "links": [
           {
             "lang": "English",
-            "url": "https://immerjs.github.io/immer/"
+            "url": "https://eslint.org/docs/latest/"
           },
           {
             "lang": "日本語",
@@ -811,7 +855,75 @@
         ]
       },
       {
-        "label": "jQuery (JavaScript)",
+        "label": "D3",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://d3js.org/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Framer Motion",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://www.framer.com/motion/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "AI SDK",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://sdk.vercel.ai/docs/introduction"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Lightening CSS",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://lightningcss.dev/docs.html"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "jQuery",
         "links": [
           {
             "lang": "English",
@@ -826,9 +938,35 @@
             "url": "https://jquery-ko.mogumogu.dev/jquery-learn-ko/index.html"
           }
         ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Libraries (Python)",
+      "ja": "ライブラリ (Python)",
+      "ko": "라이브러리 (Python)"
+    },
+    "items": [
+      {
+        "label": "KoNLPy",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://konlpy.org/en/latest/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://konlpy.org/ko/latest/"
+          }
+        ]
       },
       {
-        "label": "scikit-learn (Python)",
+        "label": "scikit-learn",
         "links": [
           {
             "lang": "English",
@@ -845,11 +983,28 @@
         ]
       },
       {
-        "label": "KoNLPy (Python)",
+        "label": "TensorFlow",
         "links": [
           {
             "lang": "English",
-            "url": "https://konlpy.org/en/latest/"
+            "url": "https://www.tensorflow.org/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://www.tensorflow.org/?hl=ja"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://www.tensorflow.org/?hl=ko"
+          }
+        ]
+      },
+      {
+        "label": "PyTorch",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://pytorch.org/"
           },
           {
             "lang": "日本語",
@@ -857,7 +1012,7 @@
           },
           {
             "lang": "한국어",
-            "url": "https://konlpy.org/ko/latest/"
+            "url": "https://tutorials.pytorch.kr/recipes/recipes_index.html"
           }
         ]
       }
@@ -919,6 +1074,40 @@
           {
             "lang": "English",
             "url": "https://docs.npmjs.com/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "pnpm (JavaScript)",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://pnpm.io/motivation/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://pnpm.io/ja/motivation"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://pnpm.io/ko/motivation"
+          }
+        ]
+      },
+      {
+        "label": "Turbo (JavaScript)",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://turbo.build/repo/docs"
           },
           {
             "lang": "日本語",
@@ -1047,49 +1236,6 @@
           {
             "lang": "한국어",
             "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "AI/ML",
-      "ja": "AI・機械学習",
-      "ko": "AI/ML"
-    },
-    "items": [
-      {
-        "label": "TensorFlow",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.tensorflow.org/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://www.tensorflow.org/?hl=ja"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://www.tensorflow.org/?hl=ko"
-          }
-        ]
-      },
-      {
-        "label": "PyTorch",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://pytorch.org/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://tutorials.pytorch.kr/recipes/recipes_index.html"
           }
         ]
       }

@@ -13,16 +13,49 @@ const Main = () => {
     setMaxHeight((prevMaxHeight) => Math.max(prevMaxHeight, height));
   };
 
-  useEffect(() => {}, [maxHeight]); // maxHeight의 변경을 감지하여 컴포넌트를 리렌더링하게 만듦
-
+  // 섹션의 아이템을 레이블 순으로 정렬
   useEffect(() => {
-    // 섹션의 아이템을 레이블 순으로 정렬
     const sortedSections = sections.map((section) => ({
       ...section,
       items: [...section.items].sort((a, b) => a.label.localeCompare(b.label)),
     }));
 
     setSortedSections(sortedSections);
+  }, []);
+
+  useEffect(() => {}, [maxHeight]); // maxHeight의 변경을 감지하여 컴포넌트를 리렌더링하게 만듦
+
+  useEffect(() => {
+    // console.log(sortedSections);
+    sortedSections.forEach((section, sectionIndex) => {
+      section.items.forEach((item, itemIndex) => {
+        const card = cardsRef.current[sectionIndex]; // 카드 참조
+
+        if (card) {
+          // console.log(item.label);
+          // console.log(card);
+          item.links.forEach((link) => {
+            const linkElement = card.querySelector(`a[href="${link.url}"]`);
+
+            if (linkElement) {
+              if (link.lang.startsWith("**")) {
+                linkElement.classList.remove("text-blue-500");
+                linkElement.classList.add("text-green-500");
+              } else if (link.lang.startsWith("*")) {
+                console.log("내가함:", item.label);
+                linkElement.classList.remove("text-blue-500");
+                linkElement.classList.add("text-orange-500");
+              } else {
+                console.log("미작업:", item.label);
+              }
+
+              const cleanedLang = link.lang.replace(/\*/g, "");
+              linkElement.textContent = cleanedLang;
+            }
+          });
+        }
+      });
+    });
 
     // 위로 올라오는 효과
     const observer = new IntersectionObserver(
@@ -42,7 +75,7 @@ const Main = () => {
     });
 
     return () => observer.disconnect();
-  }, []);
+  }, [sortedSections]);
 
   const getRowIndex = (index: number) => Math.floor(index / 4);
 

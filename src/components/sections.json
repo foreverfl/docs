@@ -250,7 +250,7 @@
             "url": "#"
           },
           {
-            "lang": "한국어",
+            "lang": "*한국어*",
             "url": "https://antora-ko.mogumogu.dev/antora/3.1/index.html"
           }
         ]
@@ -267,7 +267,7 @@
             "url": "#"
           },
           {
-            "lang": "한국어",
+            "lang": "*한국어*",
             "url": "https://docusaurus.io/ko/"
           }
         ]
@@ -335,7 +335,7 @@
             "url": "#"
           },
           {
-            "lang": "한국어",
+            "lang": "*한국어*",
             "url": "https://nextra-ko.mogumogu.dev/"
           }
         ]
@@ -695,8 +695,8 @@
             "url": "https://nextjs-ja-translation-docs.vercel.app/"
           },
           {
-            "lang": "한국어",
-            "url": "#"
+            "lang": "*한국어*",
+            "url": "https://nextjs-ko.mogumogu.dev/docs/app/getting-started"
           }
         ]
       },

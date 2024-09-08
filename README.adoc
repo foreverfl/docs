@@ -70,12 +70,12 @@
 * Antora
 ** link:https://docs.antora.org/antora/latest/[English]
 ** link:#[日本語]
-** link:https://antora-ko.mogumogu.dev/antora/3.1/index.html[한국어]
+** link:https://antora-ko.mogumogu.dev/antora/3.1/index.html[*한국어*]
 
 * Docusaurus
 ** link:https://docusaurus.io/[English]
 ** link:#[日本語]
-** link:https://docusaurus.io/ko/[한국어]
+** link:https://docusaurus.io/ko/[*한국어*]
 
 * Spring REST Docs
 ** link:https://docs.spring.io/spring-restdocs/docs/current/reference/htmlsingle/[English]
@@ -95,7 +95,7 @@
 * Nextra
 ** link:https://nextra.site/[English]
 ** link:#[日本語]
-** link:https://nextra-ko.mogumogu.dev/[한국어]
+** link:https://nextra-ko.mogumogu.dev/[*한국어*]
 
 * MDX
 ** link:https://mdxjs.com/[English]
@@ -218,7 +218,7 @@
 * Next.js
 ** link:https://nextjs.org/docs[English]
 ** link:https://nextjs-ja-translation-docs.vercel.app/[日本語]
-** link:#[한국어]
+** link:https://nextjs-ko.mogumogu.dev/docs/app/getting-started[*한국어*]
 
 * Express
 ** link:https://expressjs.com/[English]

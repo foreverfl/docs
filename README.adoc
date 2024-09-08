@@ -182,7 +182,7 @@
 * Thymeleaf (Java)
 ** link:https://www.thymeleaf.org/doc/tutorials/3.1/usingthymeleaf.html[English]
 ** link:https://www.thymeleaf.org/doc/tutorials/3.1/usingthymeleaf_ja.html[日本語]
-** link:https://thymeleaf-ko.mogumogu.dev/site/doc/tutorials/3.1/documentation.html[한국어]
+** link:https://thymeleaf-ko.mogumogu.dev/site/doc/tutorials/3.1/documentation.html[*한국어*]
 
 * Handlebars (Node.js)
 ** link:https://handlebarsjs.com/[English]
@@ -287,7 +287,7 @@
 * jQuery
 ** link:https://jquery.com/[English]
 ** link:http://semooh.jp/jquery/[日本語]
-** link:https://jquery-ko.mogumogu.dev/jquery-learn-ko/index.html[한국어]
+** link:https://jquery-ko.mogumogu.dev/jquery-learn-ko/index.html[*한국어*]
 
 == Libraries (Python) / ライブラリ (Python) / 라이브러리 (Python)
 

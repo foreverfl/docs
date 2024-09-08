@@ -27,14 +27,15 @@ const Main = () => {
 
   useEffect(() => {
     // console.log(sortedSections);
+
     sortedSections.forEach((section, sectionIndex) => {
       section.items.forEach((item, itemIndex) => {
-        const card = cardsRef.current[sectionIndex]; // 카드 참조
+        item.links.forEach((link, linkIndex) => {
+          // console.log("sectionIndex:", sectionIndex);
+          const card = cardsRef.current[sectionIndex]; // 카드 참조
 
-        if (card) {
-          // console.log(item.label);
-          // console.log(card);
-          item.links.forEach((link) => {
+          if (card) {
+            // console.log(item.label);
             const linkElement = card.querySelector(`a[href="${link.url}"]`);
 
             if (linkElement) {
@@ -42,20 +43,19 @@ const Main = () => {
                 linkElement.classList.remove("text-blue-500");
                 linkElement.classList.add("text-green-500");
               } else if (link.lang.startsWith("*")) {
-                console.log("내가함:", item.label);
                 linkElement.classList.remove("text-blue-500");
                 linkElement.classList.add("text-orange-500");
-              } else {
-                console.log("미작업:", item.label);
               }
 
               const cleanedLang = link.lang.replace(/\*/g, "");
               linkElement.textContent = cleanedLang;
             }
-          });
-        }
+          }
+        });
       });
     });
+
+    // console.log("------------------------------------------");
 
     // 위로 올라오는 효과
     const observer = new IntersectionObserver(

@@ -566,7 +566,7 @@
             "url": "https://www.thymeleaf.org/doc/tutorials/3.1/usingthymeleaf_ja.html"
           },
           {
-            "lang": "한국어",
+            "lang": "*한국어*",
             "url": "https://thymeleaf-ko.mogumogu.dev/site/doc/tutorials/3.1/documentation.html"
           }
         ]
@@ -934,7 +934,7 @@
             "url": "http://semooh.jp/jquery/"
           },
           {
-            "lang": "한국어",
+            "lang": "*한국어*",
             "url": "https://jquery-ko.mogumogu.dev/jquery-learn-ko/index.html"
           }
         ]

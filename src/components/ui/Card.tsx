@@ -19,6 +19,24 @@ const Card: React.FC<CardProps> = ({
 
   useEffect(() => {
     if (cardRef.current) {
+      console.log(cardRef.current);
+
+      const links = cardRef.current.querySelectorAll("ul > li > div > div > a");
+      links.forEach((link) => {
+        let content = link.textContent;
+        if (content?.includes("**")) {
+          link.classList.replace("text-blue-500", "text-green-500");
+          link.textContent = content.replace(/\*\*/g, "");
+        } else if (content?.includes("*")) {
+          link.classList.replace("text-blue-500", "text-orange-500");
+          link.textContent = content.replace(/\*/g, "");
+        }
+      });
+    }
+  }, [items]);
+
+  useEffect(() => {
+    if (cardRef.current) {
       setMaxHeight(cardRef.current.clientHeight);
     }
   }, [setMaxHeight]);
@@ -42,26 +60,21 @@ const Card: React.FC<CardProps> = ({
                 </span>
               </div>
               <div className="flex flex-wrap gap-2 sm:space-x-2 text-sm w-full md:w-1/2 lg:w-2/5">
-                {item.links.map((link, idx) =>
-                  link.url === "#" ? (
-                    <span
-                      key={idx}
-                      className="text-gray-400 cursor-not-allowed"
-                    >
-                      {link.lang}
-                    </span>
-                  ) : (
-                    <a
-                      key={idx}
-                      href={link.url}
-                      className="text-blue-500 hover:underline"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      {link.lang}
-                    </a>
-                  )
-                )}
+                {item.links.map((link, idx) => (
+                  <a
+                    key={`${item.label}-${idx}`}
+                    href={link.url}
+                    className={`${
+                      link.url === "#"
+                        ? "text-gray-400 cursor-not-allowed"
+                        : "text-blue-500"
+                    }`}
+                    target={link.url === "#" ? "_self" : "_blank"} // href가 "#"인 경우 새 탭 열지 않음
+                    rel="noopener noreferrer"
+                  >
+                    {link.lang}
+                  </a>
+                ))}
               </div>
             </div>
           </li>

@@ -19,8 +19,6 @@ const Card: React.FC<CardProps> = ({
 
   useEffect(() => {
     if (cardRef.current) {
-      console.log(cardRef.current);
-
       const links = cardRef.current.querySelectorAll("ul > li > div > div > a");
       links.forEach((link) => {
         let content = link.textContent;

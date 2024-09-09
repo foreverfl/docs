@@ -1,16 +1,5 @@
-import { AppProvider } from "@/components/context/Context";
-import Footer from "@/components/Footer";
 import Main from "@/components/Main";
-import Navbar from "@/components/Navbar";
 
 export default function Home() {
-  return (
-    <AppProvider>
-      <div>
-        <Navbar />
-        <Main />
-        <Footer />
-      </div>
-    </AppProvider>
-  );
+  return <Main />;
 }

@@ -228,6 +228,23 @@
             "url": "#"
           }
         ]
+      },
+      {
+        "label": "MDX",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://mdxjs.com/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
       }
     ]
   },
@@ -267,7 +284,7 @@
             "url": "#"
           },
           {
-            "lang": "*한국어*",
+            "lang": "한국어",
             "url": "https://docusaurus.io/ko/"
           }
         ]
@@ -337,23 +354,6 @@
           {
             "lang": "*한국어*",
             "url": "https://nextra-ko.mogumogu.dev/"
-          }
-        ]
-      },
-      {
-        "label": "MDX",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://mdxjs.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
           }
         ]
       },
@@ -572,7 +572,7 @@
         ]
       },
       {
-        "label": "Handlebars (Node.js)",
+        "label": "Handlebars (JavaScript)",
         "links": [
           {
             "lang": "English",
@@ -906,6 +906,125 @@
         ]
       },
       {
+        "label": "Zod",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://zod.dev/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Yup",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/jquense/yup"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "use-debounce",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/xnimorz/use-debounce"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "jose",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://jose.readthedocs.io/en/latest/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Partytown",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://partytown.builder.io/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Negotiator",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/jshttp/negotiator"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Format.JS",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://formatjs.io/docs/getting-started/installation"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
         "label": "Lightening CSS",
         "links": [
           {
@@ -1039,6 +1158,83 @@
           {
             "lang": "한국어",
             "url": "https://webpack.kr/concepts/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Testing Tools",
+      "ja": "テストツール",
+      "ko": "테스트 도구"
+    },
+    "items": [
+      {
+        "label": "Vitest",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://vitest.dev/guide/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Jest (JavaScript)",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://jestjs.io/docs/getting-started"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Playwright",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://playwright.dev/docs/intro"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Cypress",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://docs.cypress.io/guides/overview/why-cypress"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
           }
         ]
       }

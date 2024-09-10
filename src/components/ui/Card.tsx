@@ -57,7 +57,7 @@ const Card: React.FC<CardProps> = ({
                   {item.label}
                 </span>
               </div>
-              <div className="flex flex-wrap gap-2 sm:space-x-2 text-sm w-full md:w-1/2 lg:w-2/5">
+              <div className="flex flex-wrap gap-2 sm:space-x-2 text-sm w-full md:w-1/2 lg:w-2/5 justify-center">
                 {item.links.map((link, idx) => (
                   <a
                     key={`${item.label}-${idx}`}

@@ -10,7 +10,7 @@ const SetMode: React.FC = () => {
   const [isReady, setIsReady] = useState(false); // 로딩 상태
 
   useEffect(() => {
-    if (resolvedTheme) {
+    if (resolvedTheme !== undefined) {
       setIsReady(true);
     }
   }, [resolvedTheme]);

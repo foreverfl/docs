@@ -1049,12 +1049,12 @@
             "url": "https://github.com/remarkjs/remark"
           },
           {
-            "lang": "日本語",
-            "url": "#"
+            "lang": "*日本語*",
+            "url": "https://github.com/foreverfl/remark/blob/main/readme-ja.md"
           },
           {
-            "lang": "한국어",
-            "url": "#"
+            "lang": "*한국어*",
+            "url": "https://github.com/foreverfl/remark/blob/main/readme-ko.md"
           }
         ]
       },

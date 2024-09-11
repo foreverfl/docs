@@ -321,8 +321,8 @@
 
 * Remark
 ** link:https://github.com/remarkjs/remark[English]
-** link:#[日本語]
-** link:#[한국어]
+** link:https://github.com/foreverfl/remark/blob/main/readme-ja.md[*日本語*]
+** link:https://github.com/foreverfl/remark/blob/main/readme-ko.md[*한국어*]
 
 * Lightening CSS
 ** link:https://lightningcss.dev/docs.html[English]

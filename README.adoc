@@ -314,6 +314,16 @@
 ** link:#[日本語]
 ** link:#[한국어]
 
+* Rehype
+** link:https://github.com/rehypejs/rehype[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* Remark
+** link:https://github.com/remarkjs/remark[English]
+** link:#[日本語]
+** link:#[한국어]
+
 * Lightening CSS
 ** link:https://lightningcss.dev/docs.html[English]
 ** link:#[日本語]

@@ -1025,6 +1025,40 @@
         ]
       },
       {
+        "label": "Rehype",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/rehypejs/rehype"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Remark",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/remarkjs/remark"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
         "label": "Lightening CSS",
         "links": [
           {

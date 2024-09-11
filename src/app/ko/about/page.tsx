@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <main className="min-h-[105vh] lg:min-h-[85vh] p-6 bg-white dark:bg-neutral-900 flex justify-center items-center">
-      <div className="max-w-4xl w-full bg-white dark:bg-neutral-800 rounded-lg shadow-lg p-8 space-y-6 -translate-y-12">
+      <div className="max-w-4xl w-full bg-white dark:bg-neutral-800 rounded-lg shadow-lg p-8 space-y-8">
         <h1 className="text-3xl font-bold text-gray-800 dark:text-white text-left">
           이 페이지에 대하여
         </h1>
@@ -18,9 +18,10 @@ export default function About() {
           </li>
           <li>
             제가 공식 문서에 기여하여 반영된 페이지는{" "}
-            <b className="text-green-500">녹색</b>으로, 번역만 진행해 제
-            서브도메인에서 배포한 페이지는{" "}
-            <b className="text-orange-500">주황색</b>으로 표시했습니다.
+            <b className="text-green-600 dark:text-green-400">녹색</b>으로,
+            번역만 진행해 제 서브도메인에서 배포한 페이지는{" "}
+            <b className="text-orange-600 dark:text-orange-400">주황색</b>으로
+            표시했습니다.
           </li>
           <li>
             제 서브도메인에서 배포한 페이지는 나중에 공식 문서에 통합할

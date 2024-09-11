@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <main className="min-h-[105vh] lg:min-h-[85vh] p-6 bg-white dark:bg-neutral-900 flex justify-center items-center">
-      <div className="max-w-4xl w-full bg-white dark:bg-neutral-800 rounded-lg shadow-lg p-8 space-y-6 -translate-y-12">
+      <div className="max-w-4xl w-full bg-white dark:bg-neutral-800 rounded-lg shadow-lg p-8 space-y-6">
         <h1 className="text-3xl font-bold text-gray-800 dark:text-white text-left">
           このページについて
         </h1>
@@ -17,9 +17,10 @@ export default function About() {
           </li>
           <li>
             私が公式ドキュメントに寄与して反映されたページは
-            <b className="text-green-500">緑色</b>
+            <b className="text-green-600 dark:text-green-400">緑色</b>
             で、翻訳のみを行い私のサブドメインで配信したページは
-            <b className="text-orange-500">橙色</b>で表示しています。
+            <b className="text-orange-600 dark:text-orange-400">橙色</b>
+            で表示しています。
           </li>
           <li>
             私のサブドメインで配信しているページは、いずれ公式ドキュメントに統合させるつもりです。

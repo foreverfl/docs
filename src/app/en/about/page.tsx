@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <main className="min-h-[105vh] lg:min-h-[85vh] p-6 bg-white dark:bg-neutral-900 flex justify-center items-center">
-      <div className="max-w-4xl w-full bg-white dark:bg-neutral-800 rounded-lg shadow-lg p-8 space-y-6 -translate-y-12">
+      <div className="max-w-4xl w-full bg-white dark:bg-neutral-800 rounded-lg shadow-lg p-8 space-y-6">
         <h1 className="text-3xl font-bold text-gray-800 dark:text-white text-left">
           About This Page
         </h1>
@@ -19,9 +19,9 @@ export default function About() {
           <li>
             Pages where I contributed to the official documentation and had my
             contributions reflected are marked in{" "}
-            <b className="text-green-500">green</b>, while pages I translated
-            and hosted on my subdomain are marked in{" "}
-            <b className="text-orange-500">orange</b>.
+            <b className="text-green-600 dark:text-green-400">green</b>, while
+            pages I translated and hosted on my subdomain are marked in{" "}
+            <b className="text-orange-600 dark:text-orange-400">orange</b>.
           </li>
           <li>
             Pages hosted on my subdomain will eventually be integrated into the

@@ -51,13 +51,13 @@ const Card: React.FC<CardProps> = ({
       <ul>
         {items.map((item, index) => (
           <li key={index} className="mb-4">
-            <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center">
-              <div className="flex flex-wrap gap-2 sm:space-x-2 text-sm w-full md:w-1/2 lg:w-3/5 text-left">
+            <div className="flex flex-row sm:justify-between sm:items-center">
+              <div className="flex gap-2 sm:space-x-2 text-sm w-full md:w-1/2 lg:w-3/5 text-left">
                 <span className="truncate w-full" title={item.label}>
                   {item.label}
                 </span>
               </div>
-              <div className="flex flex-wrap gap-2 sm:space-x-2 text-sm w-full md:w-1/2 lg:w-2/5 justify-center">
+              <div className="flex gap-2 sm:space-x-2 text-sm w-full md:w-1/2 lg:w-2/5 justify-center">
                 {item.links.map((link, idx) => (
                   <a
                     key={`${item.label}-${idx}`}

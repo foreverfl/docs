@@ -1059,6 +1059,23 @@
         ]
       },
       {
+        "label": "mdast",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/syntax-tree/mdast"
+          },
+          {
+            "lang": "*日本語*",
+            "url": "https://github.com/foreverfl/mdast/blob/main/readme-ja.md"
+          },
+          {
+            "lang": "*한국어*",
+            "url": "https://github.com/foreverfl/mdast/blob/main/readme-ko.md"
+          }
+        ]
+      },
+      {
         "label": "Lightening CSS",
         "links": [
           {

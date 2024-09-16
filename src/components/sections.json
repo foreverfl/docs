@@ -1076,6 +1076,23 @@
         ]
       },
       {
+        "label": "unified",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/unifiedjs/unified"
+          },
+          {
+            "lang": "*日本語*",
+            "url": "https://github.com/foreverfl/unified/blob/main/readme-ja.md"
+          },
+          {
+            "lang": "*한국어*",
+            "url": "https://github.com/foreverfl/unified/blob/main/readme-ko.md"
+          }
+        ]
+      },
+      {
         "label": "Lightening CSS",
         "links": [
           {

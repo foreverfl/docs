@@ -329,6 +329,10 @@
 ** link:https://github.com/foreverfl/mdast/blob/main/readme-ja.md[*日本語*]
 ** link:https://github.com/foreverfl/mdast/blob/main/readme-ko.md[*한국어*]
 
+* unified
+** link:https://github.com/unifiedjs/unified[English]
+** link:https://github.com/foreverfl/unified/blob/main/readme-ja.md[*日本語*]
+** link:https://github.com/foreverfl/unified/blob/main/readme-ko.md[*한국어*]
 
 * Lightening CSS
 ** link:https://lightningcss.dev/docs.html[English]

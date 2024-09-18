@@ -80,7 +80,7 @@
 * Docusaurus
 ** link:https://docusaurus.io/[English]
 ** link:#[日本語]
-** link:https://docusaurus.io/ko/[한국어]
+** link:#[한국어]
 
 * Spring REST Docs
 ** link:https://docs.spring.io/spring-restdocs/docs/current/reference/htmlsingle/[English]

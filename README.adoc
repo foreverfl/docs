@@ -107,6 +107,11 @@
 ** link:#[日本語]
 ** link:#[한국어]
 
+* Gatbsy
+** link:https://www.gatsbyjs.com/docs/[English]
+** link:#[日本語]
+** link:#[한국어]
+
 // * Sphinx
 // ** link:[English]
 // ** link:[日本語]
@@ -176,6 +181,11 @@
 ** link:https://nodejs.org/docs/latest/api/[English]
 ** link:https://nodejs.org/dist/latest-v8.x/docs/api/[日本語]
 ** link:https://nodejs.sideeffect.kr/docs/[한국어]
+
+* Deno (JavaScript)
+** link:https://docs.deno.com/runtime/[English]
+** link:#[日本語]
+** link:#[한국어]
 
 == Template Engines / テンプレートエンジン / 템플릿 엔진
 
@@ -247,6 +257,28 @@
 ** link:https://fastapi.tiangolo.com/ja/[日本語]
 ** link:https://fastapi.tiangolo.com/ko/[한국어]
 
+== Libraries (Markdown) / ライブラリ (Markdown) / 라이브러리 (Markdown)
+
+* Rehype
+** link:https://github.com/rehypejs/rehype[English]
+** link:https://github.com/foreverfl/rehype/blob/main/readme-ja.md[*日本語*]
+** link:https://github.com/foreverfl/rehype/blob/main/readme-ko.md[*한국어*]
+
+* Remark
+** link:https://github.com/remarkjs/remark[English]
+** link:https://github.com/foreverfl/remark/blob/main/readme-ja.md[*日本語*]
+** link:https://github.com/foreverfl/remark/blob/main/readme-ko.md[*한국어*]
+
+* mdast
+** link:https://github.com/syntax-tree/mdast[English]
+** link:https://github.com/foreverfl/mdast/blob/main/readme-ja.md[*日本語*]
+** link:https://github.com/foreverfl/mdast/blob/main/readme-ko.md[*한국어*]
+
+* unified
+** link:https://github.com/unifiedjs/unified[English]
+** link:https://github.com/foreverfl/unified/blob/main/readme-ja.md[*日本語*]
+** link:https://github.com/foreverfl/unified/blob/main/readme-ko.md[*한국어*]
+
 == Libraries (JavaScript) / ライブラリ (JavaScript) / 라이브러리 (JavaScript)
 
 * React
@@ -313,26 +345,6 @@
 ** link:https://formatjs.io/docs/getting-started/installation[English]
 ** link:#[日本語]
 ** link:#[한국어]
-
-* Rehype
-** link:https://github.com/rehypejs/rehype[English]
-** link:https://github.com/foreverfl/rehype/blob/main/readme-ja.md[*日本語*]
-** link:https://github.com/foreverfl/rehype/blob/main/readme-ko.md[*한국어*]
-
-* Remark
-** link:https://github.com/remarkjs/remark[English]
-** link:https://github.com/foreverfl/remark/blob/main/readme-ja.md[*日本語*]
-** link:https://github.com/foreverfl/remark/blob/main/readme-ko.md[*한국어*]
-
-* mdast
-** link:https://github.com/syntax-tree/mdast[English]
-** link:https://github.com/foreverfl/mdast/blob/main/readme-ja.md[*日本語*]
-** link:https://github.com/foreverfl/mdast/blob/main/readme-ko.md[*한국어*]
-
-* unified
-** link:https://github.com/unifiedjs/unified[English]
-** link:https://github.com/foreverfl/unified/blob/main/readme-ja.md[*日本語*]
-** link:https://github.com/foreverfl/unified/blob/main/readme-ko.md[*한국어*]
 
 * Lightening CSS
 ** link:https://lightningcss.dev/docs.html[English]
@@ -405,7 +417,7 @@
 * npm (JavaScript)
 ** link:https://docs.npmjs.com/[English]
 ** link:#[日本語]
-** link:#[한국어]
+** link:https://npm-ko.netlify.app/[*한국어*]
 
 * pnpm (JavaScript)
 ** link:https://pnpm.io/motivation/[English]

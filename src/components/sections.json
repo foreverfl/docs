@@ -373,6 +373,23 @@
             "url": "#"
           }
         ]
+      },
+      {
+        "label": "Gatbsy",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://www.gatsbyjs.com/docs/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
       }
     ]
   },
@@ -542,6 +559,23 @@
           {
             "lang": "한국어",
             "url": "https://nodejs.sideeffect.kr/docs/"
+          }
+        ]
+      },
+      {
+        "label": "Deno (JavaScript)",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://docs.deno.com/runtime/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
           }
         ]
       }
@@ -798,6 +832,83 @@
   },
   {
     "title": {
+      "en": "Libraries (Markdown)",
+      "ja": "ライブラリ (Markdown)",
+      "ko": "라이브러리 (Markdown)"
+    },
+    "items": [
+      {
+        "label": "Rehype",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/rehypejs/rehype"
+          },
+          {
+            "lang": "*日本語*",
+            "url": "https://github.com/foreverfl/rehype/blob/main/readme-ja.md"
+          },
+          {
+            "lang": "*한국어*",
+            "url": "https://github.com/foreverfl/rehype/blob/main/readme-ko.md"
+          }
+        ]
+      },
+      {
+        "label": "Remark",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/remarkjs/remark"
+          },
+          {
+            "lang": "*日本語*",
+            "url": "https://github.com/foreverfl/remark/blob/main/readme-ja.md"
+          },
+          {
+            "lang": "*한국어*",
+            "url": "https://github.com/foreverfl/remark/blob/main/readme-ko.md"
+          }
+        ]
+      },
+      {
+        "label": "mdast",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/syntax-tree/mdast"
+          },
+          {
+            "lang": "*日本語*",
+            "url": "https://github.com/foreverfl/mdast/blob/main/readme-ja.md"
+          },
+          {
+            "lang": "*한국어*",
+            "url": "https://github.com/foreverfl/mdast/blob/main/readme-ko.md"
+          }
+        ]
+      },
+      {
+        "label": "unified",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/unifiedjs/unified"
+          },
+          {
+            "lang": "*日本語*",
+            "url": "https://github.com/foreverfl/unified/blob/main/readme-ja.md"
+          },
+          {
+            "lang": "*한국어*",
+            "url": "https://github.com/foreverfl/unified/blob/main/readme-ko.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
       "en": "Libraries (JavaScript)",
       "ja": "ライブラリ (JavaScript)",
       "ko": "라이브러리 (JavaScript)"
@@ -1021,74 +1132,6 @@
           {
             "lang": "한국어",
             "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Rehype",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/rehypejs/rehype"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://github.com/foreverfl/rehype/blob/main/readme-ja.md"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://github.com/foreverfl/rehype/blob/main/readme-ko.md"
-          }
-        ]
-      },
-      {
-        "label": "Remark",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/remarkjs/remark"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://github.com/foreverfl/remark/blob/main/readme-ja.md"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://github.com/foreverfl/remark/blob/main/readme-ko.md"
-          }
-        ]
-      },
-      {
-        "label": "mdast",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/syntax-tree/mdast"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://github.com/foreverfl/mdast/blob/main/readme-ja.md"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://github.com/foreverfl/mdast/blob/main/readme-ko.md"
-          }
-        ]
-      },
-      {
-        "label": "unified",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/unifiedjs/unified"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://github.com/foreverfl/unified/blob/main/readme-ja.md"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://github.com/foreverfl/unified/blob/main/readme-ko.md"
           }
         ]
       },
@@ -1344,8 +1387,8 @@
             "url": "#"
           },
           {
-            "lang": "한국어",
-            "url": "#"
+            "lang": "*한국어*",
+            "url": "https://npm-ko.netlify.app/"
           }
         ]
       },

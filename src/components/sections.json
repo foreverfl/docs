@@ -245,6 +245,23 @@
             "url": "#"
           }
         ]
+      },
+      {
+        "label": "Front Matter",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://frontmatter.codes/docs"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
       }
     ]
   },
@@ -469,7 +486,7 @@
         ]
       },
       {
-        "label": "Web APIs",
+        "label": "Web APIs (JavaScript)",
         "links": [
           {
             "lang": "English",
@@ -535,6 +552,40 @@
             "url": "https://doc.rust-kr.org/"
           }
         ]
+      },
+      {
+        "label": "Solidity",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://docs.soliditylang.org/en/v0.8.27/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://solidity-ja.readthedocs.io/ja/latest/"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://solidity-kr.readthedocs.io/ko/latest/"
+          }
+        ]
+      },
+      {
+        "label": "Dart",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://dart.dev/guides"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://dart-ko.dev/guides"
+          }
+        ]
       }
     ]
   },
@@ -572,6 +623,40 @@
           {
             "lang": "日本語",
             "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Bitcoin (C++)",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://developer.bitcoin.org/reference/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Ethereum (Solidity)",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://ethereum.org/en/developers/docs/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://ethereum.org/ja/developers/docs/"
           },
           {
             "lang": "한국어",
@@ -640,11 +725,11 @@
           },
           {
             "lang": "日本語",
-            "url": "https://runebook.dev/ja/docs/tailwindcss/-index-"
+            "url": "#"
           },
           {
             "lang": "한국어",
-            "url": "https://runebook.dev/ko/docs/tailwindcss/-index-"
+            "url": "#"
           }
         ]
       },
@@ -784,6 +869,23 @@
             "url": "https://developer.chrome.com/docs/extensions?hl=ko"
           }
         ]
+      },
+      {
+        "label": "React Native",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://reactnative.dev/docs/getting-started"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
       }
     ]
   },
@@ -825,6 +927,32 @@
           {
             "lang": "한국어",
             "url": "https://fastapi.tiangolo.com/ko/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Frameworks (Dart)",
+      "ja": "フレームワーク (Dart)",
+      "ko": "프레임워크 (Dart)"
+    },
+    "items": [
+      {
+        "label": "Flutter",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://docs.flutter.dev/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://flutter.ctrnost.com/"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
           }
         ]
       }
@@ -902,6 +1030,40 @@
           {
             "lang": "*한국어*",
             "url": "https://github.com/foreverfl/unified/blob/main/readme-ko.md"
+          }
+        ]
+      },
+      {
+        "label": "React Syntax Highlighter",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/react-syntax-highlighter/react-syntax-highlighter#readme"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "next-mdx-remote",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/hashicorp/next-mdx-remote"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
           }
         ]
       }
@@ -1119,23 +1281,6 @@
         ]
       },
       {
-        "label": "Format.JS",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://formatjs.io/docs/getting-started/installation"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
         "label": "Lightening CSS",
         "links": [
           {
@@ -1166,6 +1311,74 @@
           {
             "lang": "*한국어*",
             "url": "https://jquery-ko.mogumogu.dev/jquery-learn-ko/index.html"
+          }
+        ]
+      },
+      {
+        "label": "Format.JS",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://formatjs.io/docs/getting-started/installation"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "React Router",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://reactrouter.com/en/main"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Three.js",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://threejs.org/docs/index.html#manual/ja/introduction/Creating-a-scene"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://threejs.org/docs/index.html#manual/ko/introduction/Creating-a-scene"
+          }
+        ]
+      },
+      {
+        "label": "Highcharts",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://www.highcharts.com/docs/index"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
           }
         ]
       }
@@ -1282,7 +1495,7 @@
     },
     "items": [
       {
-        "label": "Vitest",
+        "label": "Vitest (JavaScript)",
         "links": [
           {
             "lang": "English",
@@ -1316,7 +1529,7 @@
         ]
       },
       {
-        "label": "Playwright",
+        "label": "Playwright (JavaScript)",
         "links": [
           {
             "lang": "English",
@@ -1333,7 +1546,7 @@
         ]
       },
       {
-        "label": "Cypress",
+        "label": "Cypress (JavaScript)",
         "links": [
           {
             "lang": "English",
@@ -1582,6 +1795,32 @@
           {
             "lang": "日本語",
             "url": "https://pleiades.io/help/idea/javadocs.html"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Media Servers",
+      "ja": "メディアサーバー",
+      "ko": "미디어 서버"
+    },
+    "items": [
+      {
+        "label": "Jellyfin",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://jellyfin.org/docs/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
           },
           {
             "lang": "한국어",

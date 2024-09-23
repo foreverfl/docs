@@ -47,7 +47,7 @@ const Navbar = () => {
         </Link>
         <Link
           href="https://mogumogu.dev/"
-          className="text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors duration-200"
+          className="hidden sm:block text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors duration-200"
         >
           Blog
         </Link>

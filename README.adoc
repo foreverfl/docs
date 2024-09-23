@@ -70,6 +70,11 @@
 ** link:#[日本語]
 ** link:#[한국어]
 
+* Front Matter
+** link:https://frontmatter.codes/docs[English]
+** link:#[日本語]
+** link:#[한국어]
+
 == Documentation Tools / ドキュメンテーションツール / 문서화 도구
 
 * Antora
@@ -154,7 +159,7 @@
 ** link:https://developer.mozilla.org/ja/docs/Web/JavaScript[日本語]
 ** link:https://developer.mozilla.org/ko/docs/Web/JavaScript[한국어]
 
-* Web APIs
+* Web APIs (JavaScript)
 ** link:https://developer.mozilla.org/en-US/docs/Web/API[English]
 ** link:https://developer.mozilla.org/ja/docs/Web/API[日本語]
 ** link:https://developer.mozilla.org/ko/docs/Web/API[한국어]
@@ -174,6 +179,16 @@
 ** link:https://doc.rust-jp.rs/book-ja/[日本語]
 ** link:https://doc.rust-kr.org/[한국어]
 
+* Solidity
+** link:https://docs.soliditylang.org/en/v0.8.27/[English]
+** link:https://solidity-ja.readthedocs.io/ja/latest/[日本語]
+** link:https://solidity-kr.readthedocs.io/ko/latest/[한국어]
+
+* Dart
+** link:https://dart.dev/guides[English]
+** link:#[日本語]
+** link:https://dart-ko.dev/guides[한국어]
+
 
 == Runtime Environments / ランタイム環境 / 런타임 환경
 
@@ -185,6 +200,16 @@
 * Deno (JavaScript)
 ** link:https://docs.deno.com/runtime/[English]
 ** link:#[日本語]
+** link:#[한국어]
+
+* Bitcoin (C++)
+** link:https://developer.bitcoin.org/reference/[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* Ethereum (Solidity)
+** link:https://ethereum.org/en/developers/docs/[English]
+** link:https://ethereum.org/ja/developers/docs/[日本語]
 ** link:#[한국어]
 
 == Template Engines / テンプレートエンジン / 템플릿 엔진
@@ -203,8 +228,8 @@
 
 * TailwindCSS
 ** link:https://v2.tailwindcss.com/docs[English]
-** link:https://runebook.dev/ja/docs/tailwindcss/-index-[日本語]
-** link:https://runebook.dev/ko/docs/tailwindcss/-index-[한국어]
+** link:#[日本語]
+** link:#[한국어]
 
 * BootStrap
 ** link:https://getbootstrap.com/docs/5.3/getting-started/introduction/[English]
@@ -245,6 +270,11 @@
 ** link:https://developer.chrome.com/docs/extensions?hl=ja[日本語]
 ** link:https://developer.chrome.com/docs/extensions?hl=ko[한국어]
 
+* React Native
+** link:https://reactnative.dev/docs/getting-started[English]
+** link:#[日本語]
+** link:#[한국어]
+
 == Frameworks (Python) / フレームワーク (Python) / 프레임워크 (Python)
 
 * Django
@@ -256,6 +286,13 @@
 ** link:https://fastapi.tiangolo.com/[English]
 ** link:https://fastapi.tiangolo.com/ja/[日本語]
 ** link:https://fastapi.tiangolo.com/ko/[한국어]
+
+== Frameworks (Dart) / フレームワーク (Dart) / 프레임워크 (Dart)
+
+* Flutter
+** link:https://docs.flutter.dev/[English]
+** link:https://flutter.ctrnost.com/[日本語]
+** link:#[한국어]
 
 == Libraries (Markdown) / ライブラリ (Markdown) / 라이브러리 (Markdown)
 
@@ -278,6 +315,16 @@
 ** link:https://github.com/unifiedjs/unified[English]
 ** link:https://github.com/foreverfl/unified/blob/main/readme-ja.md[*日本語*]
 ** link:https://github.com/foreverfl/unified/blob/main/readme-ko.md[*한국어*]
+
+* React Syntax Highlighter
+** link:https://github.com/react-syntax-highlighter/react-syntax-highlighter#readme[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* next-mdx-remote
+** link:https://github.com/hashicorp/next-mdx-remote[English]
+** link:#[日本語]
+** link:#[한국어]
 
 == Libraries (JavaScript) / ライブラリ (JavaScript) / 라이브러리 (JavaScript)
 
@@ -341,11 +388,6 @@
 ** link:#[日本語]
 ** link:#[한국어]
 
-* Format.JS
-** link:https://formatjs.io/docs/getting-started/installation[English]
-** link:#[日本語]
-** link:#[한국어]
-
 * Lightening CSS
 ** link:https://lightningcss.dev/docs.html[English]
 ** link:#[日本語]
@@ -355,6 +397,26 @@
 ** link:https://jquery.com/[English]
 ** link:http://semooh.jp/jquery/[日本語]
 ** link:https://jquery-ko.mogumogu.dev/jquery-learn-ko/index.html[*한국어*]
+
+* Format.JS
+** link:https://formatjs.io/docs/getting-started/installation[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* React Router
+** link:https://reactrouter.com/en/main[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* Three.js
+** link:https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene[English]
+** link:https://threejs.org/docs/index.html#manual/ja/introduction/Creating-a-scene[日本語]
+** link:https://threejs.org/docs/index.html#manual/ko/introduction/Creating-a-scene[한국어]
+
+* Highcharts
+** link:https://www.highcharts.com/docs/index[English]
+** link:#[日本語]
+** link:#[한국어]
 
 == Libraries (Python) / ライブラリ (Python) / 라이브러리 (Python)
 
@@ -387,7 +449,7 @@
 
 == Testing Tools / テストツール / 테스트 도구
 
-* Vitest
+* Vitest (JavaScript)
 ** link:https://vitest.dev/guide/[English]
 ** link:#[日本語]
 ** link:#[한국어]
@@ -397,12 +459,12 @@
 ** link:#[日本語]
 ** link:#[한국어]
 
-* Playwright
+* Playwright (JavaScript)
 ** link:https://playwright.dev/docs/intro[English]
 ** link:#[日本語]
 ** link:#[한국어]
 
-* Cypress
+* Cypress (JavaScript)
 ** link:https://docs.cypress.io/guides/overview/why-cypress[English]
 ** link:#[日本語]
 ** link:#[한국어]
@@ -473,6 +535,13 @@
 * IntelliJ IDEA
 ** link:https://www.jetbrains.com/help/idea/getting-started.html[English]
 ** link:https://pleiades.io/help/idea/javadocs.html[日本語]
+** link:#[한국어]
+
+== Media Servers / メディアサーバー / 미디어 서버
+
+* Jellyfin
+** link:https://jellyfin.org/docs/[English]
+** link:#[日本語]
 ** link:#[한국어]
 
 == Books / 書籍 / 도서

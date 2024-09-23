@@ -52,12 +52,12 @@ const Card: React.FC<CardProps> = ({
         {items.map((item, index) => (
           <li key={index} className="mb-4">
             <div className="flex flex-row sm:justify-between sm:items-center">
-              <div className="flex gap-2 sm:space-x-2 text-sm w-full md:w-1/2 lg:w-3/5 text-left">
+              <div className="flex gap-2 sm:space-x-2 text-sm w-1/2 md:w-1/2 lg:w-7/12 text-left">
                 <span className="truncate w-full" title={item.label}>
                   {item.label}
                 </span>
               </div>
-              <div className="flex gap-2 sm:space-x-2 text-sm w-full md:w-1/2 lg:w-2/5 justify-center">
+              <div className="flex gap-2 sm:space-x-2 text-sm w-1/2 md:w-1/2 lg:w-5/12 justify-center">
                 {item.links.map((link, idx) => (
                   <a
                     key={`${item.label}-${idx}`}
@@ -66,7 +66,7 @@ const Card: React.FC<CardProps> = ({
                       link.url === "#"
                         ? "text-gray-400 cursor-not-allowed"
                         : "text-blue-500"
-                    }`}
+                    } w-1/3 truncate sm:text-clip	`}
                     target={link.url === "#" ? "_self" : "_blank"} // href가 "#"인 경우 새 탭 열지 않음
                     rel="noopener noreferrer"
                   >

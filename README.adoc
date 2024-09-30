@@ -323,6 +323,11 @@
 
 * next-mdx-remote
 ** link:https://github.com/hashicorp/next-mdx-remote[English]
+** link:https://github.com/foreverfl/next-mdx-remote/blob/main/README-ja.md[*日本語*]
+** link:https://github.com/foreverfl/next-mdx-remote/blob/main/README-ko.md[*한국어*]
+
+* rehype-pretty-code
+** link:https://github.com/rehype-pretty/rehype-pretty-code[English]
 ** link:#[日本語]
 ** link:#[한국어]
 
@@ -415,6 +420,11 @@
 
 * Highcharts
 ** link:https://www.highcharts.com/docs/index[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* Fuse.js
+** link:https://www.fusejs.io/[English]
 ** link:#[日本語]
 ** link:#[한국어]
 

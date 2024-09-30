@@ -1058,6 +1058,23 @@
             "url": "https://github.com/hashicorp/next-mdx-remote"
           },
           {
+            "lang": "*日本語*",
+            "url": "https://github.com/foreverfl/next-mdx-remote/blob/main/README-ja.md"
+          },
+          {
+            "lang": "*한국어*",
+            "url": "https://github.com/foreverfl/next-mdx-remote/blob/main/README-ko.md"
+          }
+        ]
+      },
+      {
+        "label": "rehype-pretty-code",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/rehype-pretty/rehype-pretty-code"
+          },
+          {
             "lang": "日本語",
             "url": "#"
           },
@@ -1371,6 +1388,23 @@
           {
             "lang": "English",
             "url": "https://www.highcharts.com/docs/index"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Fuse.js",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://www.fusejs.io/"
           },
           {
             "lang": "日本語",

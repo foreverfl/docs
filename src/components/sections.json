@@ -407,6 +407,23 @@
             "url": "#"
           }
         ]
+      },
+      {
+        "label": "VuePress",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://www.gatsbyjs.com/docs/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
       }
     ]
   },

@@ -1,0 +1,38 @@
+{
+  "en": {
+    "name": "Spring Framework",
+    "description": "The Spring Framework provides a comprehensive programming and configuration model for modern Java-based enterprise applications - on any kind of deployment platform. \n\nA key element of Spring is infrastructural support at the application level: Spring focuses on the \"plumbing\" of enterprise applications so that teams can focus on application-level business logic, without unnecessary ties to specific deployment environments.",
+    "features": [
+      "Core technologies: dependency injection, events, resources, i18n, validation, data binding, type conversion, SpEL, AOP",
+      "Testing: mock objects, TestContext framework, Spring MVC Test, WebTestClient",
+      "Data Access: transactions, DAO support, JDBC, ORM, Marshalling XML",
+      "Spring MVC and Spring WebFlux web frameworks",
+      "Integration: remoting, JMS, JCA, JMX, email, tasks, scheduling, cache and observability",
+      "Languages: Kotlin, Groovy, dynamic languages"
+    ]
+  },
+  "ko": {
+    "name": "Spring Framework",
+    "description": "스프링 프레임워크는 현대적인 자바 기반 엔터프라이즈 애플리케이션을 위한 포괄적인 프로그래밍 및 설정 모델을 제공합니다. 모든 종류의 배포 플랫폼에서 사용 가능합니다. \n\n스프링의 핵심 요소는 애플리케이션 수준의 인프라 지원입니다. 스프링은 엔터프라이즈 애플리케이션의 '인프라' 부분에 의하여 팀이 특정 배포 환경에 불필요하게 얽매이지 않고 애플리케이션 수준의 비즈니스 로직에 집중할 수 있도록 합니다.",
+    "features": [
+      "핵심 기술: 의존성 주입, 이벤트, 리소스, 국제화(i18n), 유효성 검사, 데이터 바인딩, 타입 변환, SpEL, AOP",
+      "테스팅: 모의 객체, TestContext 프레임워크, Spring MVC 테스트, WebTestClient",
+      "데이터 액세스: 트랜잭션, DAO 지원, JDBC, ORM, XML 마샬링",
+      "Spring MVC와 Spring WebFlux 웹 프레임워크",
+      "통합: 원격 처리, JMS, JCA, JMX, 이메일, 작업, 스케줄링, 캐시 및 관찰 가능성",
+      "언어: Kotlin, Groovy, 동적 언어 지원"
+    ]
+  },
+  "ja": {
+    "name": "Spring Framework",
+    "description": "スプリングフレームワークは、現代的なJavaベースのエンタープライズアプリケーションのための包括的なプログラミングおよび設定モデルを提供します - あらゆる種類のデプロイメントプラットフォームで使用可能です。\n\nスプリングの重要な要素は、アプリケーションレベルでのインフラストラクチャサポートです。スプリングはエンタープライズアプリケーションの「配管」に焦点を当て、チームが特定のデプロイメント環境に不必要に縛られることなく、アプリケーションレベルのビジネスロジックに集中できるようにします。",
+    "features": [
+      "コア技術: 依存性注入、イベント、リソース、国際化、バリデーション、データバインディング、タイプ変換、SpEL、AOP",
+      "テスト: モックオブジェクト、TestContextフレームワーク、Spring MVCテスト、WebTestClient",
+      "データアクセス: トランザクション、DAOサポート、JDBC、ORM、XMLマーシャリング",
+      "Spring MVCとSpring WebFluxウェブフレームワーク",
+      "統合: リモーティング、JMS、JCA、JMX、メール、タスク、スケジューリング、キャッシュと観測可能性",
+      "言語: Kotlin、Groovy、動的言語のサポート"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "spring-boot": [
+    {
+      "version": "3.3.4",
+      "labels": ["CURRENT", "GA"],
+      "refLink": "#",
+      "apiLink": "#"
+    }
+  ],
+  "spring-framework": [
+    {
+      "version": "6.1.13",
+      "labels": ["CURRENT", "GA"],
+      "refLink": "#",
+      "apiLink": "#"
+    }
+  ],
+  "spring-data": [
+    {
+      "version": "2024.0.4",
+      "labels": ["CURRENT", "GA"],
+      "refLink": "#",
+      "apiLink": "#"
+    }
+  ],
+  "spring-security": [
+    {
+      "version": "6.3.3",
+      "labels": ["CURRENT", "GA"],
+      "refLink": "https://spring-security-ko.mogumogu.dev/security/index.html",
+      "apiLink": "#"
+    }
+  ]
+}

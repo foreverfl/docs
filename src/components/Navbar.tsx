@@ -14,6 +14,7 @@ import { useAppContext } from "@/components/context/Context";
 
 // React hooks
 import { useState } from "react";
+import { usePathname } from "next/navigation";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -21,12 +22,19 @@ const inter = Inter({
 });
 
 const Navbar = () => {
+  const pathname = usePathname();
+  const allowedPaths = ["/", "/ja/about", "/ko/about", "/en/about"];
+
   const { language } = useAppContext();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
   };
+
+  if (!allowedPaths.includes(pathname)) {
+    return null;
+  }
 
   return (
     <nav className="flex items-center justify-between p-4 bg-slate-50 dark:bg-neutral-800">

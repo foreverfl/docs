@@ -244,14 +244,9 @@
 == Frameworks (Java) / フレームワーク (Java) / 프레임워크 (Java)
 
 * Spring Framework
-** link:https://docs.spring.io/spring-framework/reference/index.html[English]
-** link:https://spring.pleiades.io/spring-framework/reference/[日本語]
-** link:#[한국어]
-
-* Spring Boot
-** link:https://docs.spring.io/spring-boot/index.html[English]
-** link:https://spring.pleiades.io/spring-boot/[日本語]
-** link:#[한국어]
+** link:https://spring.io/projects/spring-boot[English]
+** link:https://spring.pleiades.io/projects/spring-boot[日本語]
+** link:https://docs.mogumogu.dev/ko/spring[한국어]
 
 == Frameworks (JavaScript) / フレームワーク (JavaScript) / 프레임워크 (JavaScript)
 

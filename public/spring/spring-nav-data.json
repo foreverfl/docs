@@ -1,0 +1,179 @@
+[
+  {
+    "content": "Spring Boot",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Framework",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Data",
+    "url": "#",
+    "items": [
+      { "content": "Spring Data JDBC", "url": "#" },
+      { "content": "Spring Data JPA", "url": "#" },
+      { "content": "Spring Data LDAP", "url": "#" },
+      { "content": "Spring Data MongoDB", "url": "#" },
+      { "content": "Spring Data Redis", "url": "#" },
+      { "content": "Spring Data R2DBC", "url": "#" },
+      { "content": "Spring Data REST", "url": "#" },
+      { "content": "Spring Data for Apache Cassandra", "url": "#" },
+      { "content": "Spring Data for Apache Geode", "url": "#" },
+      { "content": "Spring Data Couchbase", "url": "#" },
+      { "content": "Spring Data Elasticsearch", "url": "#" },
+      { "content": "Spring Data Envers", "url": "#" },
+      { "content": "Spring Data Neo4j", "url": "#" }
+    ]
+  },
+  {
+    "content": "Spring Cloud",
+    "url": "#",
+    "items": [
+      { "content": "Spring Cloud Azure", "url": "#" },
+      { "content": "Spring Cloud Alibaba", "url": "#" },
+      { "content": "Spring Cloud for Amazon Web Services", "url": "#" },
+      { "content": "Spring Cloud Bus", "url": "#" },
+      { "content": "Spring Cloud Circuit Breaker", "url": "#" },
+      { "content": "Spring Cloud CLI", "url": "#" },
+      { "content": "Spring Cloud - Cloud Foundry Service Broker", "url": "#" },
+      { "content": "Spring Cloud Commons", "url": "#" },
+      { "content": "Spring Cloud Config", "url": "#" },
+      { "content": "Spring Cloud Consul", "url": "#" },
+      { "content": "Spring Cloud Contract", "url": "#" },
+      { "content": "Spring Cloud Function", "url": "#" },
+      { "content": "Spring Cloud Gateway", "url": "#" },
+      { "content": "Spring Cloud GCP", "url": "#" },
+      { "content": "Spring Cloud Kubernetes", "url": "#" },
+      { "content": "Spring Cloud Netflix", "url": "#" },
+      { "content": "Spring Cloud Open Service Broker", "url": "#" },
+      { "content": "Spring Cloud OpenFeign", "url": "#" },
+      { "content": "Spring Cloud Security", "url": "#" },
+      { "content": "Spring Cloud Skipper", "url": "#" },
+      { "content": "Spring Cloud Sleuth", "url": "#" },
+      { "content": "Spring Cloud Stream", "url": "#" },
+      { "content": "Spring Cloud Stream Applications", "url": "#" },
+      { "content": "Spring Cloud Task", "url": "#" },
+      { "content": "Spring Cloud Vault", "url": "#" },
+      { "content": "Spring Cloud Zookeeper", "url": "#" },
+      { "content": "Spring Cloud App Broker", "url": "#" }
+    ]
+  },
+  {
+    "content": "Spring Cloud Data Flow",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Security",
+    "url": "#",
+    "items": [{ "content": "Spring Security Kerberos", "url": "#" }]
+  },
+  {
+    "content": "Spring Authorization Server",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring for GraphQL",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Session",
+    "url": "#",
+    "items": [{ "content": "Spring Session for Apache Geode", "url": "#" }]
+  },
+  {
+    "content": "Spring Integration",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring HATEOAS",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Modulith",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring REST Docs",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring AI",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Batch",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring CLI",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring AMQP",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring CredHub",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Flo",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring for Apache Kafka",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring LDAP",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring for Apache Pulsar",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Shell",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Statemachine",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Vault",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Web Flow",
+    "url": "#",
+    "items": []
+  },
+  {
+    "content": "Spring Web Services",
+    "url": "#",
+    "items": []
+  }
+]

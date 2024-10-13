@@ -781,32 +781,15 @@
         "links": [
           {
             "lang": "English",
-            "url": "https://docs.spring.io/spring-framework/reference/index.html"
+            "url": "https://spring.io/projects/spring-boot"
           },
           {
             "lang": "日本語",
-            "url": "https://spring.pleiades.io/spring-framework/reference/"
+            "url": "https://spring.pleiades.io/projects/spring-boot"
           },
           {
             "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Spring Boot",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.spring.io/spring-boot/index.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://spring.pleiades.io/spring-boot/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
+            "url": "https://docs.mogumogu.dev/ko/spring"
           }
         ]
       }

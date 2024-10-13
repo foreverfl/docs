@@ -285,7 +285,7 @@
           },
           {
             "lang": "*한국어*",
-            "url": "https://antora-ko.mogumogu.dev/antora/3.1/index.html"
+            "url": "https://antora-ko.mogumogu.dev/antora/latest/index.html"
           }
         ]
       },
@@ -299,23 +299,6 @@
           {
             "lang": "日本語",
             "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Spring REST Docs",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.spring.io/spring-restdocs/docs/current/reference/htmlsingle/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://spring.pleiades.io/spring-restdocs/docs/current/reference/htmlsingle/"
           },
           {
             "lang": "한국어",
@@ -788,7 +771,7 @@
             "url": "https://spring.pleiades.io/projects/spring-boot"
           },
           {
-            "lang": "한국어",
+            "lang": "*한국어*",
             "url": "https://docs.mogumogu.dev/ko/spring"
           }
         ]

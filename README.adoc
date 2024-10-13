@@ -80,16 +80,11 @@
 * Antora
 ** link:https://docs.antora.org/antora/latest/[English]
 ** link:#[日本語]
-** link:https://antora-ko.mogumogu.dev/antora/3.1/index.html[*한국어*]
+** link:https://antora-ko.mogumogu.dev/antora/latest/index.html[*한국어*]
 
 * Docusaurus
 ** link:https://docusaurus.io/[English]
 ** link:#[日本語]
-** link:#[한국어]
-
-* Spring REST Docs
-** link:https://docs.spring.io/spring-restdocs/docs/current/reference/htmlsingle/[English]
-** link:https://spring.pleiades.io/spring-restdocs/docs/current/reference/htmlsingle/[日本語]
 ** link:#[한국어]
 
 * Javadoc
@@ -246,7 +241,7 @@
 * Spring Framework
 ** link:https://spring.io/projects/spring-boot[English]
 ** link:https://spring.pleiades.io/projects/spring-boot[日本語]
-** link:https://docs.mogumogu.dev/ko/spring[한국어]
+** link:https://docs.mogumogu.dev/ko/spring[*한국어*]
 
 == Frameworks (JavaScript) / フレームワーク (JavaScript) / 프레임워크 (JavaScript)
 

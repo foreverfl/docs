@@ -1077,40 +1077,6 @@
     },
     "items": [
       {
-        "label": "React",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://react.dev/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://ja.react.dev/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://ko.react.dev/"
-          }
-        ]
-      },
-      {
-        "label": "Redux Toolkit",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://redux-toolkit.js.org/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
         "label": "ESLint",
         "links": [
           {
@@ -1145,79 +1111,11 @@
         ]
       },
       {
-        "label": "Framer Motion",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.framer.com/motion/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
         "label": "AI SDK",
         "links": [
           {
             "lang": "English",
             "url": "https://sdk.vercel.ai/docs/introduction"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Zod",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://zod.dev/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Yup",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/jquense/yup"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "use-debounce",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/xnimorz/use-debounce"
           },
           {
             "lang": "日本語",
@@ -1315,40 +1213,6 @@
         ]
       },
       {
-        "label": "Format.JS",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://formatjs.io/docs/getting-started/installation"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "React Router",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://reactrouter.com/en/main"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
         "label": "Three.js",
         "links": [
           {
@@ -1396,6 +1260,185 @@
           {
             "lang": "한국어",
             "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Zod",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://zod.dev/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Yup",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/jquense/yup"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "use-debounce",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/xnimorz/use-debounce"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Format.JS",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://formatjs.io/docs/getting-started/installation"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Libraries (React)",
+      "ja": "ライブラリ (React)",
+      "ko": "라이브러리 (React)"
+    },
+    "items": [
+      {
+        "label": "React",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://react.dev/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://ja.react.dev/"
+          },
+          {
+            "lang": "한국어",
+            "url": "https://ko.react.dev/"
+          }
+        ]
+      },
+      {
+        "label": "Redux Toolkit",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://redux-toolkit.js.org/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "React Router",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://reactrouter.com/en/main"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "react-modal",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://reactcommunity.org/react-modal/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "React Audio Player",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://github.com/justinmc/react-audio-player"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Framer Motion",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://www.framer.com/motion/"
+          },
+          {
+            "lang": "*日本語*",
+            "url": "https://framer.mogumogu.dev/ja/docs/getting-started/introduction"
+          },
+          {
+            "lang": "*한국어*",
+            "url": "https://framer.mogumogu.dev/docs/getting-started/introduction"
           }
         ]
       }

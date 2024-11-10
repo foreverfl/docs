@@ -328,16 +328,6 @@
 
 == Libraries (JavaScript) / ライブラリ (JavaScript) / 라이브러리 (JavaScript)
 
-* React
-** link:https://react.dev/[English]
-** link:https://ja.react.dev/[日本語]
-** link:https://ko.react.dev/[한국어]
-
-* Redux Toolkit
-** link:https://redux-toolkit.js.org/[English]
-** link:#[日本語]
-** link:#[한국어]
-
 * ESLint
 ** link:https://eslint.org/docs/latest/[English]
 ** link:#[日本語]
@@ -348,28 +338,8 @@
 ** link:#[日本語]
 ** link:#[한국어]
 
-* Framer Motion
-** link:https://www.framer.com/motion/[English]
-** link:#[日本語]
-** link:#[한국어]
-
 * AI SDK
 ** link:https://sdk.vercel.ai/docs/introduction[English]
-** link:#[日本語]
-** link:#[한국어]
-
-* Zod
-** link:https://zod.dev/[English]
-** link:#[日本語]
-** link:#[한국어]
-
-* Yup
-** link:https://github.com/jquense/yup[English]
-** link:#[日本語]
-** link:#[한국어]
-
-* use-debounce
-** link:https://github.com/xnimorz/use-debounce[English]
 ** link:#[日本語]
 ** link:#[한국어]
 
@@ -398,16 +368,6 @@
 ** link:http://semooh.jp/jquery/[日本語]
 ** link:https://jquery-ko.mogumogu.dev/jquery-learn-ko/index.html[*한국어*]
 
-* Format.JS
-** link:https://formatjs.io/docs/getting-started/installation[English]
-** link:#[日本語]
-** link:#[한국어]
-
-* React Router
-** link:https://reactrouter.com/en/main[English]
-** link:#[日本語]
-** link:#[한국어]
-
 * Three.js
 ** link:https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene[English]
 ** link:https://threejs.org/docs/index.html#manual/ja/introduction/Creating-a-scene[日本語]
@@ -422,6 +382,58 @@
 ** link:https://www.fusejs.io/[English]
 ** link:#[日本語]
 ** link:#[한국어]
+
+* Zod
+** link:https://zod.dev/[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* Yup
+** link:https://github.com/jquense/yup[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* use-debounce
+** link:https://github.com/xnimorz/use-debounce[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* Format.JS
+** link:https://formatjs.io/docs/getting-started/installation[English]
+** link:#[日本語]
+** link:#[한국어]
+
+== Libraries (React) / ライブラリ (React) / 라이브러리 (React)
+
+* React
+** link:https://react.dev/[English]
+** link:https://ja.react.dev/[日本語]
+** link:https://ko.react.dev/[한국어]
+
+* Redux Toolkit
+** link:https://redux-toolkit.js.org/[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* React Router
+** link:https://reactrouter.com/en/main[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* react-modal
+** link:https://reactcommunity.org/react-modal/[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* React Audio Player
+** link:https://github.com/justinmc/react-audio-player[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* Framer Motion
+** link:https://www.framer.com/motion/[English]
+** link:https://framer.mogumogu.dev/ja/docs/getting-started/introduction[*日本語*]
+** link:https://framer.mogumogu.dev/docs/getting-started/introduction[*한국어*]
 
 == Libraries (Python) / ライブラリ (Python) / 라이브러리 (Python)
 

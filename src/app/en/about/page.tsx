@@ -28,16 +28,20 @@ export default function About() {
             official documentation.
           </li>
           <li>
-            The site hosted on my subdomain contains ads to cover server
+            My subdomain site may include advertisements to cover server
             maintenance costs.
           </li>
           <li>
-            The design of the pages is primarily aimed at being the same or
-            similar to the official documents.
+            Currently, I am translating <b>Docusaurus</b> and{" "}
+            <b>Visual Studio Code</b>.
           </li>
           <li>
-            First, I plan to translate documentation tools, followed by
-            translating content related to JavaScript in sequence.
+            Next, I plan to translate <b>Docker</b>, <b>PostgreSQL</b>,{" "}
+            <b>Nuxt</b>, and <b>Terraform</b>.
+          </li>
+          <li>
+            Currently, only one version of Spring Security within the Spring
+            Framework has been translated.
           </li>
         </ul>
       </div>

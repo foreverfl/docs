@@ -84,11 +84,16 @@
 
 * Docusaurus
 ** link:https://docusaurus.io/[English]
-** link:#[日本語]
-** link:#[한국어]
+** link:https://docusaurus.mogumogu.dev/ja/docs[*日本語*]
+** link:https://docusaurus.mogumogu.dev/docs[*한국어*]
 
 * Javadoc
 ** link:https://docs.oracle.com/en/java/javase/22/docs/specs/javadoc/doc-comment-spec.html[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* JSDoc
+** link:https://jsdoc.app/[English]
 ** link:#[日本語]
 ** link:#[한국어]
 
@@ -117,12 +122,12 @@
 ** link:#[日本語]
 ** link:#[한국어]
 
-// * Sphinx
-// ** link:[English]
-// ** link:[日本語]
-// ** link:[한국어]
+* Hugo
+** link:https://gohugo.io/documentation/[English]
+** link:https://hugojapan.github.io/[日本語]
+** link:#[한국어]
 
-// * Hugo
+// * Sphinx
 // ** link:[English]
 // ** link:[日本語]
 // ** link:[한국어]
@@ -236,6 +241,11 @@
 ** link:https://getbootstrap.jp/docs/5.3/getting-started/introduction/[日本語]
 ** link:https://getbootstrap.kr/docs/5.3/getting-started/introduction/[한국어]
 
+* Infima
+** link:https://infima.dev/docs/getting-started/introduction/[English]
+** link:#[日本語]
+** link:#[한국어]
+
 == Frameworks (Java) / フレームワーク (Java) / 프레임워크 (Java)
 
 * Spring Framework
@@ -245,15 +255,20 @@
 
 == Frameworks (JavaScript) / フレームワーク (JavaScript) / 프레임워크 (JavaScript)
 
-* Next.js
-** link:https://nextjs.org/docs[English]
-** link:https://nextjs-ja-translation-docs.vercel.app/[日本語]
-** link:https://nextjs-ko.mogumogu.dev/docs/app/getting-started[*한국어*]
-
 * Express
 ** link:https://expressjs.com/[English]
 ** link:https://expressjs.com/ja/[日本語]
 ** link:https://expressjs.com/ko/[한국어]
+
+* Nust
+** link:https://nuxt.com/docs/getting-started/introduction[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* Next.js
+** link:https://nextjs.org/docs[English]
+** link:https://nextjs-ja-translation-docs.vercel.app/[日本語]
+** link:https://nextjs-ko.mogumogu.dev/docs/app/getting-started[*한국어*]
 
 * Electron
 ** link:https://www.electronjs.org/docs/latest/[English]
@@ -430,6 +445,11 @@
 ** link:#[日本語]
 ** link:#[한국어]
 
+* react-i18n
+** link:https://react.i18next.com/[English]
+** link:#[日本語]
+** link:#[한국어]
+
 * Framer Motion
 ** link:https://www.framer.com/motion/[English]
 ** link:https://framer.mogumogu.dev/ja/docs/getting-started/introduction[*日本語*]
@@ -487,6 +507,11 @@
 ** link:#[한국어]
 
 == Build Tools / ビルドツール / 빌드 도구
+
+* Terraform
+** link:https://developer.hashicorp.com/terraform?product_intent=terraform[English]
+** link:#[日本語]
+** link:#[한국어]
 
 * Gradle (Java)    
 ** link:https://docs.gradle.org/current/userguide/userguide.html[English]
@@ -546,8 +571,8 @@
 
 * Visual Studio Code
 ** link:https://code.visualstudio.com/docs[English]
-** link:#[日本語]
-** link:#[한국어]
+** link:https://vscode.mogumogu.dev/ja[*日本語*]
+** link:https://vscode.mogumogu.dev/[*한국어*]
 
 * IntelliJ IDEA
 ** link:https://www.jetbrains.com/help/idea/getting-started.html[English]

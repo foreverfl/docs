@@ -297,6 +297,23 @@
             "url": "https://docusaurus.io/"
           },
           {
+            "lang": "*日本語*",
+            "url": "https://docusaurus.mogumogu.dev/ja/docs"
+          },
+          {
+            "lang": "*한국어*",
+            "url": "https://docusaurus.mogumogu.dev/docs"
+          }
+        ]
+      },
+      {
+        "label": "Javadoc",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://docs.oracle.com/en/java/javase/22/docs/specs/javadoc/doc-comment-spec.html"
+          },
+          {
             "lang": "日本語",
             "url": "#"
           },
@@ -307,11 +324,11 @@
         ]
       },
       {
-        "label": "Javadoc",
+        "label": "JSDoc",
         "links": [
           {
             "lang": "English",
-            "url": "https://docs.oracle.com/en/java/javase/22/docs/specs/javadoc/doc-comment-spec.html"
+            "url": "https://jsdoc.app/"
           },
           {
             "lang": "日本語",
@@ -401,6 +418,23 @@
           {
             "lang": "日本語",
             "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Hugo",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://gohugo.io/documentation/"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://hugojapan.github.io/"
           },
           {
             "lang": "한국어",
@@ -749,6 +783,23 @@
             "url": "https://getbootstrap.kr/docs/5.3/getting-started/introduction/"
           }
         ]
+      },
+      {
+        "label": "Infima",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://infima.dev/docs/getting-started/introduction/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
       }
     ]
   },
@@ -786,23 +837,6 @@
     },
     "items": [
       {
-        "label": "Next.js",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://nextjs.org/docs"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://nextjs-ja-translation-docs.vercel.app/"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://nextjs-ko.mogumogu.dev/docs/app/getting-started"
-          }
-        ]
-      },
-      {
         "label": "Express",
         "links": [
           {
@@ -816,6 +850,40 @@
           {
             "lang": "한국어",
             "url": "https://expressjs.com/ko/"
+          }
+        ]
+      },
+      {
+        "label": "Nust",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://nuxt.com/docs/getting-started/introduction"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Next.js",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://nextjs.org/docs"
+          },
+          {
+            "lang": "日本語",
+            "url": "https://nextjs-ja-translation-docs.vercel.app/"
+          },
+          {
+            "lang": "*한국어*",
+            "url": "https://nextjs-ko.mogumogu.dev/docs/app/getting-started"
           }
         ]
       },
@@ -1426,6 +1494,23 @@
         ]
       },
       {
+        "label": "react-i18n",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://react.i18next.com/"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
         "label": "Framer Motion",
         "links": [
           {
@@ -1632,6 +1717,23 @@
     },
     "items": [
       {
+        "label": "Terraform",
+        "links": [
+          {
+            "lang": "English",
+            "url": "https://developer.hashicorp.com/terraform?product_intent=terraform"
+          },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
         "label": "Gradle (Java)",
         "links": [
           {
@@ -1836,12 +1938,12 @@
             "url": "https://code.visualstudio.com/docs"
           },
           {
-            "lang": "日本語",
-            "url": "#"
+            "lang": "*日本語*",
+            "url": "https://vscode.mogumogu.dev/ja"
           },
           {
-            "lang": "한국어",
-            "url": "#"
+            "lang": "*한국어*",
+            "url": "https://vscode.mogumogu.dev/"
           }
         ]
       },

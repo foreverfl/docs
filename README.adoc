@@ -1,6 +1,6 @@
 = Docs
 
-== Command Line Tools / コマンドラインツール / 명령줄 도구
+==  CI/CD / CI/CD / CI/CD
 
 * PowerShell
 ** link:https://learn.microsoft.com/en-us/powershell/[English]
@@ -17,8 +17,6 @@
 ** link:https://git-scm.com/book/ja/v2[日本語]
 ** link:https://git-scm.com/book/ko/v2[한국어]
 
-==  Containerization and Orchestration / コンテナ化とオーケストレーション / 컨테이너화 및 오케스트레이션
-
 * Docker
 ** link:https://docs.docker.com/[English]
 ** link:https://docs.docker.jp/[日本語]
@@ -29,14 +27,10 @@
 ** link:https://kubernetes.io/ja/docs/home/[日本語]
 ** link:https://kubernetes.io/ko/docs/home/[한국어]
 
-== DevOps / デブオプス / 데브옵스
-
 * Sentry
 ** link:https://docs.sentry.io/[English]
 ** link:#[日本語]
 ** link:#[한국어]
-
-== Deployment / デプロイメント / 배포
 
 * Vercel
 ** link:https://vercel.com/docs[English]
@@ -415,6 +409,16 @@
 
 * Format.JS
 ** link:https://formatjs.io/docs/getting-started/installation[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* Playwright
+* link:https://playwright.dev/docs/intro[English]
+** link:#[日本語]
+** link:#[한국어]
+
+* Playwright-extra
+* link:https://github.com/berstend/puppeteer-extra/tree/master/packages/playwright-extra[English]
 ** link:#[日本語]
 ** link:#[한국어]
 

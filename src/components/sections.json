@@ -1,9 +1,9 @@
 [
   {
     "title": {
-      "en": "Command Line Tools",
-      "ja": "コマンドラインツール",
-      "ko": "명령줄 도구"
+      "en": "CI/CD",
+      "ja": "CI/CD",
+      "ko": "CI/CD"
     },
     "items": [
       {
@@ -56,16 +56,7 @@
             "url": "https://git-scm.com/book/ko/v2"
           }
         ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Containerization and Orchestration",
-      "ja": "コンテナ化とオーケストレーション",
-      "ko": "컨테이너화 및 오케스트레이션"
-    },
-    "items": [
+      },
       {
         "label": "Docker",
         "links": [
@@ -99,16 +90,7 @@
             "url": "https://kubernetes.io/ko/docs/home/"
           }
         ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "DevOps",
-      "ja": "デブオプス",
-      "ko": "데브옵스"
-    },
-    "items": [
+      },
       {
         "label": "Sentry",
         "links": [
@@ -125,16 +107,7 @@
             "url": "#"
           }
         ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Deployment",
-      "ja": "デプロイメント",
-      "ko": "배포"
-    },
-    "items": [
+      },
       {
         "label": "Vercel",
         "links": [
@@ -1389,6 +1362,40 @@
             "lang": "English",
             "url": "https://formatjs.io/docs/getting-started/installation"
           },
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Playwright",
+        "links": []
+      },
+      {
+        "label": "link:https://playwright.dev/docs/intro[English]",
+        "links": [
+          {
+            "lang": "日本語",
+            "url": "#"
+          },
+          {
+            "lang": "한국어",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "label": "Playwright-extra",
+        "links": []
+      },
+      {
+        "label": "link:https://github.com/berstend/puppeteer-extra/tree/master/packages/playwright-extra[English]",
+        "links": [
           {
             "lang": "日本語",
             "url": "#"

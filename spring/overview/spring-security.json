@@ -1,0 +1,35 @@
+{
+  "en": {
+    "name": "Spring Security",
+    "description": "Spring Security is a powerful and highly customizable authentication and access-control framework. It is the de-facto standard for securing Spring-based applications. \n\nSpring Security focuses on providing both authentication and authorization to Java applications. Like all Spring projects, the real power of Spring Security is found in how easily it can be extended to meet custom requirements.",
+    "features": [
+      "Comprehensive and extensible support for both Authentication and Authorization",
+      "Protection against attacks like session fixation, clickjacking, cross site request forgery, etc",
+      "Servlet API integration",
+      "Optional integration with Spring Web MVC",
+      "Much more..."
+    ]
+  },
+  "ko": {
+    "name": "Spring Security",
+    "description": "스프링 시큐리티는 강력하고 높은 수준의 사용자 정의가 가능한 인증 및 접근 제어 프레임워크입니다. 스프링 기반 애플리케이션의 보안을 위한 사실상의 표준입니다. \n\n스프링 시큐리티는 자바 애플리케이션에 인증과 권한 부여를 제공하는 데 중점을 둡니다. 다른 모든 스프링 프로젝트와 마찬가지로, 스프링 시큐리티의 진정한 강점은 사용자 정의 요구사항을 충족하기 위해 쉽게 확장할 수 있다는 점에 있습니다.",
+    "features": [
+      "인증과 권한 부여에 대한 포괄적이고 확장 가능한 지원",
+      "세션 고정, 클릭재킹, 크로스 사이트 요청 위조 등의 공격으로부터 보호",
+      "서블릿 API 통합",
+      "스프링 웹 MVC와의 선택적 통합",
+      "그 외 다양한 기능..."
+    ]
+  },
+  "ja": {
+    "name": "Spring Security",
+    "description": "スプリングセキュリティは、強力で高度にカスタマイズ可能な認証とアクセス制御のフレームワークです。スプリングベースのアプリケーションのセキュリティ確保における事実上の標準となっています。\n\nスプリングセキュリティは、Javaアプリケーションに認証と認可の両方を提供することに焦点を当てています。他のすべてのスプリングプロジェクトと同様に、スプリングセキュリティの真の力は、カスタム要件を満たすために簡単に拡張できる点にあります。",
+    "features": [
+      "認証と認可の両方に対する包括的で拡張可能なサポート",
+      "セッション固定、クリックジャッキング、クロスサイトリクエストフォージェリなどの攻撃からの保護",
+      "サーブレットAPIとの統合",
+      "スプリングWeb MVCとのオプション統合",
+      "その他多数の機能..."
+    ]
+  }
+}

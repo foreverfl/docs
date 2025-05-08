@@ -1,0 +1,38 @@
+{
+  "en": {
+    "name": "Spring Boot",
+    "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can \"just run\".\n\nWe take an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need minimal Spring configuration.\n\nIf you're looking for information about a specific version, or instructions about how to upgrade from an earlier release, check out the project release notes section on our wiki.",
+    "features": [
+      "Create stand-alone Spring applications",
+      "Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)",
+      "Provide opinionated 'starter' dependencies to simplify your build configuration",
+      "Automatically configure Spring and 3rd party libraries whenever possible",
+      "Provide production-ready features such as metrics, health checks, and externalized configuration",
+      "Absolutely no code generation and no requirement for XML configuration"
+    ]
+  },
+  "ko": {
+    "name": "Spring Boot",
+    "description": "Spring Boot는 \"손 쉽게 실행할 수 있는\" 독립 실행형, 실제 운영 환경에서도 사용할 수 있는 Spring 기반 애플리케이션을 쉽게 만들 수 있게 해줍니다.\n\n우리는 Spring 플랫폼과 서드파티 라이브러리에 대해 권장 설정을 제공하여 최소한의 노력으로 시작할 수 있게 합니다. 대부분의 Spring Boot 애플리케이션은 최소한의 Spring 설정만 필요로 합니다.\n\n특정 버전에 대한 정보나 이전 릴리스에서 업그레이드하는 방법에 대한 안내를 찾고 있다면, 우리의 위키에 있는 프로젝트 릴리스 노트 섹션을 확인해 보세요.",
+    "features": [
+      "단독 실행형 Spring 애플리케이션 생성",
+      "Tomcat, Jetty 또는 Undertow를 직접 내장 (WAR 파일 배포 불필요)",
+      "빌드 구성을 단순화하기 위한 권장 '스타터' 의존성 제공",
+      "가능한 경우 Spring과 서드파티 라이브러리 자동 구성",
+      "지표, 상태 확인 및 외부화된 구성과 같은 프로덕션 준비 기능 제공",
+      "코드 생성을 필요로 하지 않으며 XML 구성이 필요 없음"
+    ]
+  },
+  "ja": {
+    "name": "Spring Boot",
+    "description": "Spring Bootは、「そのまま実行できる」スタンドアロンの本番用Springベースアプリケーションを簡単に作成できるようにします。\n\n私たちは、Springプラットフォームとサードパーティライブラリに対して独自の見解を持っているため、最小限の手間で始めることができます。ほとんどのSpring Bootアプリケーションは最小限のSpring設定しか必要としません。\n\n特定のバージョンに関する情報や、以前のリリースからアップグレードする方法については、私たちのウィキにあるプロジェクトリリースノートセクションをご確認ください。",
+    "features": [
+      "スタンドアロンのSpringアプリケーションの作成",
+      "Tomcat、Jetty、またはUndertowを直接組み込み（WARファイルのデプロイが不要）",
+      "ビルド設定を簡素化するための独自の'スターター'依存関係の提供",
+      "可能な限りSpringおよびサードパーティライブラリを自動設定",
+      "メトリクス、ヘルスチェック、外部化された設定などの本番環境対応機能の提供",
+      "コード生成が一切なく、XML設定も不要"
+    ]
+  }
+}

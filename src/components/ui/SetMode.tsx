@@ -4,7 +4,7 @@ import { useTheme } from "next-themes";
 import Image from "next/image";
 import React, { useEffect, useState } from "react";
 
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+const basePath = '/docs';
 
 const SetMode: React.FC = () => {
   const { theme, setTheme, systemTheme, resolvedTheme } = useTheme();

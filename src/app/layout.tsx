@@ -6,7 +6,7 @@ import { ThemeProvider } from "next-themes";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+const basePath = '/docs';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {

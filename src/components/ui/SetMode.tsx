@@ -1,13 +1,14 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
 import { useTheme } from "next-themes";
 import Image from "next/image";
+import React, { useEffect, useState } from "react";
+
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
 
 const SetMode: React.FC = () => {
-  // 모드 설정
   const { theme, setTheme, systemTheme, resolvedTheme } = useTheme();
-  const [isReady, setIsReady] = useState(false); // 로딩 상태
+  const [isReady, setIsReady] = useState(false); // loading status
 
   useEffect(() => {
     if (resolvedTheme !== undefined) {
@@ -50,8 +51,8 @@ const SetMode: React.FC = () => {
             <Image
               src={
                 resolvedTheme === "dark"
-                  ? "/images/moon.png"
-                  : "/images/sun.png"
+                  ? `${basePath}/images/moon.png`
+                  : `${basePath}/images/sun.png`
               }
               alt={resolvedTheme === "dark" ? "Dark Mode On" : "Dark Mode Off"}
               width={24}

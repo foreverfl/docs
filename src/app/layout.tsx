@@ -1,11 +1,12 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
-import { ThemeProvider } from "next-themes";
-import "./globals.css";
-import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Navbar from "@/components/Navbar";
 import { AppProvider } from "@/components/context/Context";
+import type { Metadata } from "next";
+import { ThemeProvider } from "next-themes";
+import { Inter } from "next/font/google";
+import "./globals.css";
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -13,7 +14,7 @@ export const metadata: Metadata = {
   description:
     "A comprehensive collection of developer documentation resources I have studied and will study across various technologies and languages.",
   icons: {
-    icon: "/images/icons8-document-white.svg",
+    icon: `${basePath}/images/icons8-document-white.svg`,
   },
 };
 

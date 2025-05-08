@@ -4,8 +4,6 @@ import { useTheme } from "next-themes";
 import Image from "next/image";
 import React, { useEffect, useState } from "react";
 
-const basePath = '/docs';
-
 const SetMode: React.FC = () => {
   const { theme, setTheme, systemTheme, resolvedTheme } = useTheme();
   const [isReady, setIsReady] = useState(false); // loading status
@@ -51,8 +49,8 @@ const SetMode: React.FC = () => {
             <Image
               src={
                 resolvedTheme === "dark"
-                  ? `${basePath}/images/moon.png`
-                  : `${basePath}/images/sun.png`
+                  ? `/images/moon.png`
+                  : `/images/sun.png`
               }
               alt={resolvedTheme === "dark" ? "Dark Mode On" : "Dark Mode Off"}
               width={24}

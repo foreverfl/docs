@@ -6,7 +6,6 @@ import { ThemeProvider } from "next-themes";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
-const basePath = '/docs';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -14,7 +13,7 @@ export const metadata: Metadata = {
   description:
     "A comprehensive collection of developer documentation resources I have studied and will study across various technologies and languages.",
   icons: {
-    icon: `${basePath}/images/icons8-document-white.svg`,
+    icon: `/images/icons8-document-white.svg`,
   },
 };
 

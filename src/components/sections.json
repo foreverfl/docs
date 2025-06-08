@@ -1,2023 +1,731 @@
 [
   {
-    "title": {
-      "en": "CI/CD",
-      "ja": "CI/CD",
-      "ko": "CI/CD"
-    },
+    "title": "OS",
     "items": [
       {
-        "label": "PowerShell",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://learn.microsoft.com/en-us/powershell/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://learn.microsoft.com/ja-jp/powershell/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://learn.microsoft.com/ko-kr/powershell/"
-          }
-        ]
+        "label": "Linux",
+        "link": "https://www.gnu.org/software/software.html",
+        "translatable": false
       },
       {
-        "label": "Linux",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.gnu.org/software/software.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
+        "label": "PowerShell",
+        "link": "https://learn.microsoft.com/en-us/powershell/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Source Control",
+    "items": [
       {
         "label": "Git",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://git-scm.com/doc"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://git-scm.com/book/ja/v2"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://git-scm.com/book/ko/v2"
-          }
-        ]
+        "link": "https://git-scm.com/doc",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Web Servers",
+    "items": [
+      {
+        "label": "Caddy",
+        "link": "https://caddyserver.com/docs/",
+        "translatable": false
       },
       {
-        "label": "Docker",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.docker.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://docs.docker.jp/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "label": "Nginx",
+        "link": "https://nginx.org/en/docs/",
+        "translatable": false
       },
       {
-        "label": "Kubernetes",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://kubernetes.io/docs/home/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://kubernetes.io/ja/docs/home/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://kubernetes.io/ko/docs/home/"
-          }
-        ]
-      },
+        "label": "Apache",
+        "link": "https://httpd.apache.org/docs/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "CI/CD",
+    "items": [
       {
-        "label": "Sentry",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.sentry.io/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "label": "GitHub Actions",
+        "link": "https://docs.github.com/en/actions",
+        "translatable": false
       },
       {
         "label": "Vercel",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://vercel.com/docs"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "link": "https://vercel.com/docs",
+        "translatable": false
       },
       {
         "label": "Netlify",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.netlify.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "link": "https://docs.netlify.com/",
+        "translatable": false
       }
     ]
   },
   {
-    "title": {
-      "en": "Markup Languages",
-      "ja": "マークアップ言語",
-      "ko": "마크업 언어"
-    },
+    "title": "Container & Orchestration",
     "items": [
       {
-        "label": "GFM",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.github.com/gfm/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "label": "Docker",
+        "link": "https://docs.docker.com/",
+        "translatable": false
       },
       {
-        "label": "Asciidoc",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.asciidoctor.org/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Mermaid",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://mermaid.js.org/intro/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "MDX",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://mdxjs.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Front Matter",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://frontmatter.codes/docs"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "label": "Kubernetes",
+        "link": "https://kubernetes.io/docs/home/",
+        "translatable": false
       }
     ]
   },
   {
-    "title": {
-      "en": "Documentation Tools",
-      "ja": "ドキュメンテーションツール",
-      "ko": "문서화 도구"
-    },
-    "items": [
-      {
-        "label": "Antora",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.antora.org/antora/latest/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://antora-ko.mogumogu.dev/antora/latest/index.html"
-          }
-        ]
-      },
-      {
-        "label": "Docusaurus",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docusaurus.io/"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://docusaurus.mogumogu.dev/ja/docs"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://docusaurus.mogumogu.dev/docs"
-          }
-        ]
-      },
-      {
-        "label": "Javadoc",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.oracle.com/en/java/javase/22/docs/specs/javadoc/doc-comment-spec.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "JSDoc",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://jsdoc.app/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Pandoc",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://pandoc.org/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://pandoc-doc-ja.readthedocs.io/ja/latest/users-guide.html"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Nextra",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://nextra.site/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://nextra-ko.mogumogu.dev/"
-          }
-        ]
-      },
-      {
-        "label": "MkDocs",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.mkdocs.org/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Gatbsy",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.gatsbyjs.com/docs/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "VuePress",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.gatsbyjs.com/docs/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Hugo",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://gohugo.io/documentation/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://hugojapan.github.io/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Programming Languages",
-      "ja": "プログラミング言語",
-      "ko": "프로그래밍 언어"
-    },
-    "items": [
-      {
-        "label": "Java",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.oracle.com/en/java/javase/22/docs/api/index.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://docs.oracle.com/javase/jp/21/docs/api/index.html"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "HTML",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://developer.mozilla.org/ja/docs/Web/HTML"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://developer.mozilla.org/ko/docs/Web/HTML"
-          }
-        ]
-      },
-      {
-        "label": "CSS",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://developer.mozilla.org/ja/docs/Web/CSS"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://developer.mozilla.org/ko/docs/Web/CSS"
-          }
-        ]
-      },
-      {
-        "label": "JavaScript",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://developer.mozilla.org/ja/docs/Web/JavaScript"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://developer.mozilla.org/ko/docs/Web/JavaScript"
-          }
-        ]
-      },
-      {
-        "label": "Web APIs (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://developer.mozilla.org/en-US/docs/Web/API"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://developer.mozilla.org/ja/docs/Web/API"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://developer.mozilla.org/ko/docs/Web/API"
-          }
-        ]
-      },
-      {
-        "label": "Python",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.python.org/3/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://docs.python.org/ja/3/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://docs.python.org/ko/3/"
-          }
-        ]
-      },
-      {
-        "label": "Ruby",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.ruby-lang.org/en/documentation/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://www.ruby-lang.org/ja/documentation/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://www.ruby-lang.org/ko/documentation/"
-          }
-        ]
-      },
-      {
-        "label": "Rust",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://doc.rust-lang.org/book/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://doc.rust-jp.rs/book-ja/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://doc.rust-kr.org/"
-          }
-        ]
-      },
-      {
-        "label": "Solidity",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.soliditylang.org/en/v0.8.27/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://solidity-ja.readthedocs.io/ja/latest/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://solidity-kr.readthedocs.io/ko/latest/"
-          }
-        ]
-      },
-      {
-        "label": "Dart",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://dart.dev/guides"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://dart-ko.dev/guides"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Runtime Environments",
-      "ja": "ランタイム環境",
-      "ko": "런타임 환경"
-    },
-    "items": [
-      {
-        "label": "Node.js (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://nodejs.org/docs/latest/api/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://nodejs.org/dist/latest-v8.x/docs/api/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://nodejs.sideeffect.kr/docs/"
-          }
-        ]
-      },
-      {
-        "label": "Deno (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.deno.com/runtime/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Bitcoin (C++)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://developer.bitcoin.org/reference/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Ethereum (Solidity)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://ethereum.org/en/developers/docs/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://ethereum.org/ja/developers/docs/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Template Engines",
-      "ja": "テンプレートエンジン",
-      "ko": "템플릿 엔진"
-    },
-    "items": [
-      {
-        "label": "Thymeleaf (Java)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.thymeleaf.org/doc/tutorials/3.1/usingthymeleaf.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://www.thymeleaf.org/doc/tutorials/3.1/usingthymeleaf_ja.html"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://thymeleaf-ko.mogumogu.dev/site/doc/tutorials/3.1/documentation.html"
-          }
-        ]
-      },
-      {
-        "label": "Handlebars (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://handlebarsjs.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://handlebarsjs.com/ko/"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Frameworks (CSS)",
-      "ja": "フレームワーク (CSS)",
-      "ko": "프레임워크 (CSS)"
-    },
-    "items": [
-      {
-        "label": "TailwindCSS",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://v2.tailwindcss.com/docs"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "BootStrap",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://getbootstrap.com/docs/5.3/getting-started/introduction/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://getbootstrap.jp/docs/5.3/getting-started/introduction/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://getbootstrap.kr/docs/5.3/getting-started/introduction/"
-          }
-        ]
-      },
-      {
-        "label": "Infima",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://infima.dev/docs/getting-started/introduction/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Frameworks (Java)",
-      "ja": "フレームワーク (Java)",
-      "ko": "프레임워크 (Java)"
-    },
-    "items": [
-      {
-        "label": "Spring Framework",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://spring.io/projects/spring-boot"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://spring.pleiades.io/projects/spring-boot"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://docs.mogumogu.dev/ko/spring"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Frameworks (JavaScript)",
-      "ja": "フレームワーク (JavaScript)",
-      "ko": "프레임워크 (JavaScript)"
-    },
-    "items": [
-      {
-        "label": "Express",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://expressjs.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://expressjs.com/ja/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://expressjs.com/ko/"
-          }
-        ]
-      },
-      {
-        "label": "Nust",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://nuxt.com/docs/getting-started/introduction"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Next.js",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://nextjs.org/docs"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://nextjs-ja-translation-docs.vercel.app/"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://nextjs-ko.mogumogu.dev/docs/app/getting-started"
-          }
-        ]
-      },
-      {
-        "label": "Electron",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.electronjs.org/docs/latest/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://www.electronjs.org/ja/docs/latest/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Chrome Extensions",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://developer.chrome.com/docs/extensions"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://developer.chrome.com/docs/extensions?hl=ja"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://developer.chrome.com/docs/extensions?hl=ko"
-          }
-        ]
-      },
-      {
-        "label": "React Native",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://reactnative.dev/docs/getting-started"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Frameworks (Python)",
-      "ja": "フレームワーク (Python)",
-      "ko": "프레임워크 (Python)"
-    },
-    "items": [
-      {
-        "label": "Django",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.djangoproject.com/en/5.0/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://docs.djangoproject.com/ja/5.0/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://docs.djangoproject.com/ko/5.0/"
-          }
-        ]
-      },
-      {
-        "label": "FastAPI",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://fastapi.tiangolo.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://fastapi.tiangolo.com/ja/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://fastapi.tiangolo.com/ko/"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Frameworks (Dart)",
-      "ja": "フレームワーク (Dart)",
-      "ko": "프레임워크 (Dart)"
-    },
-    "items": [
-      {
-        "label": "Flutter",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.flutter.dev/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://flutter.ctrnost.com/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Libraries (Markdown)",
-      "ja": "ライブラリ (Markdown)",
-      "ko": "라이브러리 (Markdown)"
-    },
-    "items": [
-      {
-        "label": "Rehype",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/rehypejs/rehype"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://github.com/foreverfl/rehype/blob/main/readme-ja.md"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://github.com/foreverfl/rehype/blob/main/readme-ko.md"
-          }
-        ]
-      },
-      {
-        "label": "Remark",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/remarkjs/remark"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://github.com/foreverfl/remark/blob/main/readme-ja.md"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://github.com/foreverfl/remark/blob/main/readme-ko.md"
-          }
-        ]
-      },
-      {
-        "label": "mdast",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/syntax-tree/mdast"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://github.com/foreverfl/mdast/blob/main/readme-ja.md"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://github.com/foreverfl/mdast/blob/main/readme-ko.md"
-          }
-        ]
-      },
-      {
-        "label": "unified",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/unifiedjs/unified"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://github.com/foreverfl/unified/blob/main/readme-ja.md"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://github.com/foreverfl/unified/blob/main/readme-ko.md"
-          }
-        ]
-      },
-      {
-        "label": "React Syntax Highlighter",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/react-syntax-highlighter/react-syntax-highlighter#readme"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "next-mdx-remote",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/hashicorp/next-mdx-remote"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://github.com/foreverfl/next-mdx-remote/blob/main/README-ja.md"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://github.com/foreverfl/next-mdx-remote/blob/main/README-ko.md"
-          }
-        ]
-      },
-      {
-        "label": "rehype-pretty-code",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/rehype-pretty/rehype-pretty-code"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Libraries (JavaScript)",
-      "ja": "ライブラリ (JavaScript)",
-      "ko": "라이브러리 (JavaScript)"
-    },
-    "items": [
-      {
-        "label": "ESLint",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://eslint.org/docs/latest/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "D3",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://d3js.org/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "AI SDK",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://sdk.vercel.ai/docs/introduction"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "jose",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://jose.readthedocs.io/en/latest/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Partytown",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://partytown.builder.io/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Negotiator",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/jshttp/negotiator"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Lightening CSS",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://lightningcss.dev/docs.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "jQuery",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://jquery.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "http://semooh.jp/jquery/"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://jquery-ko.mogumogu.dev/jquery-learn-ko/index.html"
-          }
-        ]
-      },
-      {
-        "label": "Three.js",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://threejs.org/docs/index.html#manual/ja/introduction/Creating-a-scene"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://threejs.org/docs/index.html#manual/ko/introduction/Creating-a-scene"
-          }
-        ]
-      },
-      {
-        "label": "Highcharts",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.highcharts.com/docs/index"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Fuse.js",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.fusejs.io/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Zod",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://zod.dev/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Yup",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/jquense/yup"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "use-debounce",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/xnimorz/use-debounce"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Format.JS",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://formatjs.io/docs/getting-started/installation"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Playwright",
-        "links": []
-      },
-      {
-        "label": "link:https://playwright.dev/docs/intro[English]",
-        "links": [
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Playwright-extra",
-        "links": []
-      },
-      {
-        "label": "link:https://github.com/berstend/puppeteer-extra/tree/master/packages/playwright-extra[English]",
-        "links": [
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Libraries (React)",
-      "ja": "ライブラリ (React)",
-      "ko": "라이브러리 (React)"
-    },
-    "items": [
-      {
-        "label": "React",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://react.dev/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://ja.react.dev/"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://ko.react.dev/"
-          }
-        ]
-      },
-      {
-        "label": "Redux Toolkit",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://redux-toolkit.js.org/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "React Router",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://reactrouter.com/en/main"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "react-modal",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://reactcommunity.org/react-modal/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "React Audio Player",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://github.com/justinmc/react-audio-player"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "react-i18n",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://react.i18next.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Framer Motion",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.framer.com/motion/"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://framer.mogumogu.dev/ja/docs/getting-started/introduction"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://framer.mogumogu.dev/docs/getting-started/introduction"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Libraries (Python)",
-      "ja": "ライブラリ (Python)",
-      "ko": "라이브러리 (Python)"
-    },
-    "items": [
-      {
-        "label": "KoNLPy",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://konlpy.org/en/latest/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://konlpy.org/ko/latest/"
-          }
-        ]
-      },
-      {
-        "label": "scikit-learn",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://scikit-learn.org/stable/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://runebook.dev/ja/docs/scikit_learn/-index-"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "TensorFlow",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.tensorflow.org/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://www.tensorflow.org/?hl=ja"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://www.tensorflow.org/?hl=ko"
-          }
-        ]
-      },
-      {
-        "label": "PyTorch",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://pytorch.org/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://tutorials.pytorch.kr/recipes/recipes_index.html"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Module Bundlers",
-      "ja": "モジュールバンドラー",
-      "ko": "모듈 번들러"
-    },
-    "items": [
-      {
-        "label": "Webpack (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://webpack.js.org/concepts/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://webpack.kr/concepts/"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Testing Tools",
-      "ja": "テストツール",
-      "ko": "테스트 도구"
-    },
-    "items": [
-      {
-        "label": "Vitest (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://vitest.dev/guide/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Jest (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://jestjs.io/docs/getting-started"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Playwright (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://playwright.dev/docs/intro"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Cypress (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.cypress.io/guides/overview/why-cypress"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Build Tools",
-      "ja": "ビルドツール",
-      "ko": "빌드 도구"
-    },
+    "title": "Infrastructure as Code (IaC)",
     "items": [
       {
         "label": "Terraform",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://developer.hashicorp.com/terraform?product_intent=terraform"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "link": "https://developer.hashicorp.com/terraform/docs",
+        "translatable": false
       },
       {
-        "label": "Gradle (Java)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.gradle.org/current/userguide/userguide.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "label": "Ansible",
+        "link": "https://docs.ansible.com/",
+        "translatable": false
       },
       {
-        "label": "npm (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.npmjs.com/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://npm-ko.netlify.app/"
-          }
-        ]
-      },
-      {
-        "label": "pnpm (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://pnpm.io/motivation/"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://pnpm.io/ja/motivation"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://pnpm.io/ko/motivation"
-          }
-        ]
-      },
-      {
-        "label": "Turbo (JavaScript)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://turbo.build/repo/docs"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "pip (Python)",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://pip.pypa.io/en/stable/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "label": "AWS CLI",
+        "link": "https://docs.aws.amazon.com/en_us/cli/",
+        "translatable": false
       }
     ]
   },
   {
-    "title": {
-      "en": "Databases",
-      "ja": "データベース",
-      "ko": "데이터베이스"
-    },
+    "title": "Monitoring",
     "items": [
       {
-        "label": "PostgreSQL",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.postgresql.org/docs/current/index.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://www.postgresql.jp/document/"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "MongoDB",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.mongodb.com/docs/manual/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://www.mongodb.com/ko-kr/docs/manual/"
-          }
-        ]
+        "label": "Sentry",
+        "link": "https://docs.sentry.io/",
+        "translatable": false
       }
     ]
   },
   {
-    "title": {
-      "en": "SaaS APIs",
-      "ja": "SaaS API",
-      "ko": "SaaS API"
-    },
-    "items": [
-      {
-        "label": "Anthropic",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://docs.anthropic.com/en/api/getting-started"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://docs.anthropic.com/ja/docs/intro-to-claude"
-          },
-          {
-            "lang": "한국어",
-            "url": "https://docs.anthropic.com/ko/api/getting-started"
-          }
-        ]
-      },
-      {
-        "label": "OpenAI",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://platform.openai.com/docs/api-reference/introduction"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      },
-      {
-        "label": "Algolia",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.algolia.com/doc/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "IDEs",
-      "ja": "統合開発環境",
-      "ko": "통합 개발 환경"
-    },
+    "title": "IDEs",
     "items": [
       {
         "label": "Visual Studio Code",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://code.visualstudio.com/docs"
-          },
-          {
-            "lang": "*日本語*",
-            "url": "https://vscode.mogumogu.dev/ja"
-          },
-          {
-            "lang": "*한국어*",
-            "url": "https://vscode.mogumogu.dev/"
-          }
-        ]
+        "link": "https://code.visualstudio.com/docs",
+        "translatable": false
       },
       {
         "label": "IntelliJ IDEA",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://www.jetbrains.com/help/idea/getting-started.html"
-          },
-          {
-            "lang": "日本語",
-            "url": "https://pleiades.io/help/idea/javadocs.html"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "link": "https://www.jetbrains.com/help/idea/getting-started.html",
+        "translatable": false
       }
     ]
   },
   {
-    "title": {
-      "en": "Media Servers",
-      "ja": "メディアサーバー",
-      "ko": "미디어 서버"
-    },
+    "title": "Markup Languages",
+    "items": [
+      {
+        "label": "GFM",
+        "link": "https://github.github.com/gfm/",
+        "translatable": false
+      },
+      {
+        "label": "Asciidoc",
+        "link": "https://docs.asciidoctor.org/",
+        "translatable": false
+      },
+      {
+        "label": "Mermaid",
+        "link": "https://mermaid.js.org/intro/",
+        "translatable": false
+      },
+      {
+        "label": "MDX",
+        "link": "https://mdxjs.com/",
+        "translatable": false
+      },
+      {
+        "label": "Front Matter",
+        "link": "https://frontmatter.codes/docs",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Documentation Tools",
+    "items": [
+      {
+        "label": "Antora",
+        "link": "https://docs.antora.org/antora/latest/",
+        "translatable": false
+      },
+      {
+        "label": "Docusaurus",
+        "link": "https://docusaurus.io/",
+        "translatable": false
+      },
+      {
+        "label": "Javadoc",
+        "link": "https://docs.oracle.com/en/java/javase/22/docs/specs/javadoc/doc-comment-spec.html",
+        "translatable": false
+      },
+      {
+        "label": "JSDoc",
+        "link": "https://jsdoc.app/",
+        "translatable": false
+      },
+      {
+        "label": "Pandoc",
+        "link": "https://pandoc.org/",
+        "translatable": false
+      },
+      {
+        "label": "Nextra",
+        "link": "https://nextra.site/",
+        "translatable": false
+      },
+      {
+        "label": "MkDocs",
+        "link": "https://www.mkdocs.org/",
+        "translatable": false
+      },
+      {
+        "label": "Gatsby",
+        "link": "https://www.gatsbyjs.com/docs/",
+        "translatable": false
+      },
+      {
+        "label": "VuePress",
+        "link": "https://vuepress.vuejs.org/",
+        "translatable": false
+      },
+      {
+        "label": "Hugo",
+        "link": "https://gohugo.io/documentation/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Programming Languages",
+    "items": [
+      {
+        "label": "HTML",
+        "link": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+        "translatable": false
+      },
+      {
+        "label": "CSS",
+        "link": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+        "translatable": false
+      },
+      {
+        "label": "JavaScript",
+        "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "translatable": false
+      },
+      {
+        "label": "Web APIs (JavaScript)",
+        "link": "https://developer.mozilla.org/en-US/docs/Web/API",
+        "translatable": false
+      },
+      {
+        "label": "Java",
+        "link": "https://docs.oracle.com/en/java/javase/22/docs/api/index.html",
+        "translatable": false
+      },
+      {
+        "label": "Python",
+        "link": "https://docs.python.org/3/",
+        "translatable": false
+      },
+      {
+        "label": "Ruby",
+        "link": "https://www.ruby-lang.org/en/documentation/",
+        "translatable": false
+      },
+      {
+        "label": "Rust",
+        "link": "https://doc.rust-lang.org/book/",
+        "translatable": false
+      },
+      {
+        "label": "Solidity",
+        "link": "https://docs.soliditylang.org/en/v0.8.27/",
+        "translatable": false
+      },
+      {
+        "label": "Dart",
+        "link": "https://dart.dev/guides",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Runtime Environments",
+    "items": [
+      {
+        "label": "Node.js (JavaScript)",
+        "link": "https://nodejs.org/docs/latest/api/",
+        "translatable": false
+      },
+      {
+        "label": "Deno (JavaScript)",
+        "link": "https://docs.deno.com/runtime/",
+        "translatable": false
+      },
+      {
+        "label": "Bitcoin (C++)",
+        "link": "https://developer.bitcoin.org/reference/",
+        "translatable": false
+      },
+      {
+        "label": "Ethereum (Solidity)",
+        "link": "https://ethereum.org/en/developers/docs/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Template Engines",
+    "items": [
+      {
+        "label": "Thymeleaf (Java)",
+        "link": "https://www.thymeleaf.org/doc/tutorials/3.1/usingthymeleaf.html",
+        "translatable": false
+      },
+      {
+        "label": "Handlebars (JavaScript)",
+        "link": "https://handlebarsjs.com/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Frameworks (CSS)",
+    "items": [
+      {
+        "label": "TailwindCSS",
+        "link": "https://v2.tailwindcss.com/docs",
+        "translatable": false
+      },
+      {
+        "label": "BootStrap",
+        "link": "https://getbootstrap.com/docs/5.3/getting-started/introduction/",
+        "translatable": false
+      },
+      {
+        "label": "Infima",
+        "link": "https://infima.dev/docs/getting-started/introduction/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Frameworks (Java)",
+    "items": [
+      {
+        "label": "Spring Framework",
+        "link": "https://spring.io/projects/spring-boot",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Frameworks (JavaScript)",
+    "items": [
+      {
+        "label": "fastify",
+        "link": "https://fastify.dev/docs/latest/",
+        "translatable": false
+      },
+      {
+        "label": "Express",
+        "link": "https://expressjs.com/",
+        "translatable": false
+      },
+      {
+        "label": "Remix",
+        "link": "https://remix.run/docs/en/main",
+        "translatable": false
+      },
+      {
+        "label": "Nust",
+        "link": "https://nuxt.com/docs/getting-started/introduction",
+        "translatable": false
+      },
+      {
+        "label": "Next.js",
+        "link": "https://nextjs.org/docs",
+        "translatable": false
+      },
+      {
+        "label": "Electron",
+        "link": "https://www.electronjs.org/docs/latest/",
+        "translatable": false
+      },
+      {
+        "label": "Chrome Extensions",
+        "link": "https://developer.chrome.com/docs/extensions",
+        "translatable": false
+      },
+      {
+        "label": "React Native",
+        "link": "https://reactnative.dev/docs/getting-started",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Frameworks (Python)",
+    "items": [
+      {
+        "label": "Django",
+        "link": "https://docs.djangoproject.com/en/5.0/",
+        "translatable": false
+      },
+      {
+        "label": "FastAPI",
+        "link": "https://fastapi.tiangolo.com/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Frameworks (Dart)",
+    "items": [
+      {
+        "label": "Flutter",
+        "link": "https://docs.flutter.dev/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Libraries (Markdown)",
+    "items": [
+      {
+        "label": "Rehype",
+        "link": "https://github.com/rehypejs/rehype",
+        "translatable": false
+      },
+      {
+        "label": "Remark",
+        "link": "https://github.com/remarkjs/remark",
+        "translatable": false
+      },
+      {
+        "label": "mdast",
+        "link": "https://github.com/syntax-tree/mdast",
+        "translatable": false
+      },
+      {
+        "label": "unified",
+        "link": "https://github.com/unifiedjs/unified",
+        "translatable": false
+      },
+      {
+        "label": "React Syntax Highlighter",
+        "link": "https://github.com/react-syntax-highlighter/react-syntax-highlighter#readme",
+        "translatable": false
+      },
+      {
+        "label": "next-mdx-remote",
+        "link": "https://github.com/hashicorp/next-mdx-remote",
+        "translatable": false
+      },
+      {
+        "label": "rehype-pretty-code",
+        "link": "https://github.com/rehype-pretty/rehype-pretty-code",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Libraries (JavaScript - Linting & Formatting)",
+    "items": [
+      {
+        "label": "ESLint",
+        "link": "https://eslint.org/docs/latest/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Libraries (JavaScript - Visualization)",
+    "items": [
+      {
+        "label": "Anime.js",
+        "link": "https://animejs.com/documentation/",
+        "translatable": false
+      },
+      {
+        "label": "D3",
+        "link": "https://d3js.org/",
+        "translatable": false
+      },
+      {
+        "label": "Three.js",
+        "link": "https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene",
+        "translatable": false
+      },
+      {
+        "label": "Highcharts",
+        "link": "https://www.highcharts.com/docs/index",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Libraries (JavaScript - Utility)",
+    "items": [
+      {
+        "label": "Zod",
+        "link": "https://zod.dev/",
+        "translatable": false
+      },
+      {
+        "label": "Yup",
+        "link": "https://github.com/jquense/yup",
+        "translatable": false
+      },
+      {
+        "label": "Fuse.js",
+        "link": "https://www.fusejs.io/",
+        "translatable": false
+      },
+      {
+        "label": "use-debounce",
+        "link": "https://github.com/xnimorz/use-debounce",
+        "translatable": false
+      },
+      {
+        "label": "Format.JS",
+        "link": "https://formatjs.io/docs/getting-started/installation",
+        "translatable": false
+      },
+      {
+        "label": "jose",
+        "link": "https://jose.readthedocs.io/en/latest/",
+        "translatable": false
+      },
+      {
+        "label": "Partytown",
+        "link": "https://partytown.builder.io/",
+        "translatable": false
+      },
+      {
+        "label": "Negotiator",
+        "link": "https://github.com/jshttp/negotiator",
+        "translatable": false
+      },
+      {
+        "label": "Lightening CSS",
+        "link": "https://lightningcss.dev/docs.html",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Libraries (React)",
+    "items": [
+      {
+        "label": "React",
+        "link": "https://react.dev/",
+        "translatable": false
+      },
+      {
+        "label": "Redux Toolkit",
+        "link": "https://redux-toolkit.js.org/",
+        "translatable": false
+      },
+      {
+        "label": "React Router",
+        "link": "https://reactrouter.com/en/main",
+        "translatable": false
+      },
+      {
+        "label": "react-modal",
+        "link": "https://reactcommunity.org/react-modal/",
+        "translatable": false
+      },
+      {
+        "label": "React Audio Player",
+        "link": "https://github.com/justinmc/react-audio-player",
+        "translatable": false
+      },
+      {
+        "label": "react-i18n",
+        "link": "https://react.i18next.com/",
+        "translatable": false
+      },
+      {
+        "label": "Framer Motion",
+        "link": "https://www.framer.com/motion/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Libraries (Python)",
+    "items": [
+      {
+        "label": "KoNLPy",
+        "link": "https://konlpy.org/en/latest/",
+        "translatable": false
+      },
+      {
+        "label": "scikit-learn",
+        "link": "https://scikit-learn.org/stable/",
+        "translatable": false
+      },
+      {
+        "label": "TensorFlow",
+        "link": "https://www.tensorflow.org/",
+        "translatable": false
+      },
+      {
+        "label": "PyTorch",
+        "link": "https://pytorch.org/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Module Bundlers",
+    "items": [
+      {
+        "label": "vite (JavaScript)",
+        "link": "https://vite.dev/guide/",
+        "translatable": false
+      },
+      {
+        "label": "Rollup (JavaScript)",
+        "link": "https://rollupjs.org/",
+        "translatable": false
+      },
+      {
+        "label": "Webpack (JavaScript)",
+        "link": "https://webpack.js.org/concepts/",
+        "translatable": false
+      },
+      {
+        "label": "parcel (JavaScript)",
+        "link": "https://parceljs.org/docs/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Testing Tools",
+    "items": [
+      {
+        "label": "Vitest (JavaScript)",
+        "link": "https://vitest.dev/guide/",
+        "translatable": false
+      },
+      {
+        "label": "Jest (JavaScript)",
+        "link": "https://jestjs.io/docs/getting-started",
+        "translatable": false
+      },
+      {
+        "label": "Playwright (JavaScript)",
+        "link": "https://playwright.dev/docs/intro",
+        "translatable": true
+      },
+      {
+        "label": "Cypress (JavaScript)",
+        "link": "https://docs.cypress.io/guides/overview/why-cypress",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Build Tools",
+    "items": [
+      {
+        "label": "Gradle (Java)",
+        "link": "https://docs.gradle.org/current/userguide/userguide.html",
+        "translatable": false
+      },
+      {
+        "label": "npm (JavaScript)",
+        "link": "https://docs.npmjs.com/",
+        "translatable": false
+      },
+      {
+        "label": "pnpm (JavaScript)",
+        "link": "https://pnpm.io/motivation/",
+        "translatable": false
+      },
+      {
+        "label": "Turbo (JavaScript)",
+        "link": "https://turbo.build/repo/docs",
+        "translatable": false
+      },
+      {
+        "label": "pip (Python)",
+        "link": "https://pip.pypa.io/en/stable/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Databases",
+    "items": [
+      {
+        "label": "PostgreSQL",
+        "link": "https://www.postgresql.org/docs/current/index.html",
+        "translatable": false
+      },
+      {
+        "label": "MongoDB",
+        "link": "https://www.mongodb.com/docs/manual/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "SaaS APIs",
+    "items": [
+      {
+        "label": "Anthropic",
+        "link": "https://docs.anthropic.com/en/api/getting-started",
+        "translatable": false
+      },
+      {
+        "label": "OpenAI",
+        "link": "https://platform.openai.com/docs/api-reference/introduction",
+        "translatable": false
+      },
+      {
+        "label": "Algolia",
+        "link": "https://www.algolia.com/doc/",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Security / Reverse Engineering",
+    "items": [
+      {
+        "label": "Ghidra",
+        "link": "https://github.com/NationalSecurityAgency/ghidra",
+        "translatable": false
+      }
+    ]
+  },
+  {
+    "title": "Media Servers",
     "items": [
       {
         "label": "Jellyfin",
-        "links": [
-          {
-            "lang": "English",
-            "url": "https://jellyfin.org/docs/"
-          },
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": {
-      "en": "Books",
-      "ja": "書籍",
-      "ko": "도서"
-    },
-    "items": [
-      {
-        "label": "Effective Java",
-        "links": [
-          {
-            "lang": "日本語",
-            "url": "#"
-          },
-          {
-            "lang": "한국어",
-            "url": "#"
-          }
-        ]
+        "link": "https://jellyfin.org/docs/",
+        "translatable": false
       }
     ]
   }

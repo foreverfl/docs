@@ -1,8 +1,8 @@
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import { AppProvider } from "@/components/context/Context";
+import ThemeWrapper from "@/components/ui/ThemeWrapper";
 import type { Metadata } from "next";
-import { ThemeProvider } from "next-themes";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
@@ -23,9 +23,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html>
+    <html suppressHydrationWarning={true}>
       <body className={inter.className}>
-        <ThemeProvider attribute="class">
+        <ThemeWrapper>
           <AppProvider>
             <div>
               <Navbar />
@@ -33,7 +33,7 @@ export default function RootLayout({
               <Footer />
             </div>
           </AppProvider>
-        </ThemeProvider>
+        </ThemeWrapper>
       </body>
     </html>
   );

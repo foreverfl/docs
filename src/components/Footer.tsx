@@ -1,15 +1,6 @@
 "use client";
 
-import { usePathname } from "next/navigation";
-
 const Footer: React.FC = () => {
-  const pathname = usePathname();
-  const allowedPaths = ["/", "/ja/about", "/ko/about", "/en/about"];
-
-  if (!allowedPaths.includes(pathname)) {
-    return null;
-  }
-
   return (
     <footer className="p-4 dark:text-neutral-50 dark:bg-neutral-900 select-none">
       <div className="container mx-auto text-center">

@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState } from "react";
 import { useAppContext } from "@/components/context/Context";
-
+import { TranslatableDot } from "@/components/ui/TranslatableDot";
 interface CardProps {
   title: string;
   items: {
@@ -68,16 +68,7 @@ const Card: React.FC<CardProps> = ({
               </div>
               <div className="flex gap-2 sm:space-x-2 text-sm w-1/2 md:w-1/2 lg:w-5/12 justify-end">
                 {/* translatable */}
-                <span
-                  className={`ml-4 px-2 py-1 rounded-full text-xs font-bold ${
-                    item.translatable
-                      ? "bg-green-200 text-green-700 border border-green-400"
-                      : "bg-red-200 text-red-700 border border-red-400"
-                  }`}
-                  title={item.translatable ? "번역 지원" : "번역 미지원"}
-                >
-                  {item.translatable ? "●" : "●"}
-                </span>
+                <TranslatableDot translatable={item.translatable} />
               </div>
             </div>
           </li>
